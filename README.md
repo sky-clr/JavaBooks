@@ -33,12 +33,6 @@
   - [Redis](#Redis)
 - [11、数据结构与算法](#11、数据结构与算法)
 - [12、大数据](#12、大数据)
-  - [分布式日志收集](#分布式日志收集)
-  - [流式计算](#流式计算)
-  	- [Flink](#Flink)
-  	- [Spark](#Spark)
-  	- [Storm](#Storm)
-  - [Hadoop](#Hadoop)
 - [13、架构](#13、架构)
   - [架构师](#架构师)
 - [14、面试](#14、面试)
@@ -271,16 +265,15 @@
 - 算法图解       [百度云下载链接](https://pan.baidu.com/s/1_zdmCLcxPFfGQAJs1MZ7Xw)  密码:w3sj
 - Java 常用算法       [百度云下载链接](https://pan.baidu.com/s/17wC93Q0EMmAdSS_wWzJSqQ)  密码:vegf
 - Java 数据结构和算法       [百度云下载链接](https://pan.baidu.com/s/1skapKViDjwsZBHkBy6LO2A)  密码:hq0x
--        [百度云下载链接](
+-        [百度云下载链接]()
 
 # 12、大数据
 
-## 分布式日志收集
-## 流式计算
-### Flink
-### Spark
-### Storm
-## Hadoop
+- Kafaka 权威指南       [百度云下载链接](https://pan.baidu.com/s/1cEu_zL59LNWAJbiprpfWKQ)  密码:cr64
+- Spark 快速大数据分析       [百度云下载链接](https://pan.baidu.com/s/1sbYAN6S2Pqe4YN_IUGVvNg)  密码:jruu
+- Spark 快速数据处理       [百度云下载链接](https://pan.baidu.com/s/1KAVhY_O-f8Skyg4G7jabPg)  密码:5w06
+- Hadoop 权威指南       [百度云下载链接](https://pan.baidu.com/s/1_PqsmiWMxka52Al0Zvstpg)  密码:gn7p
+- Hadoop 技术内幕       [百度云下载链接](https://pan.baidu.com/s/1SlwuD4vZE9d-acOk3w_XuQ)  密码:ah5c
 
 # 13、架构
 
