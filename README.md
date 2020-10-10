@@ -181,6 +181,15 @@
 -        [百度云下载链接]()  密码:
 
 # 08、计算机网络
+- 计算机网络-自顶向下方法       [百度云下载链接](https://pan.baidu.com/s/18BBCeY9dAHqSAlcmjp5nvA)  密码:e7xf
+- 图解 HTTP       [百度云下载链接](https://pan.baidu.com/s/1YCGkscSU-aA_m3AwatnKUw)  密码:uayc
+- 图解 TCP IP       [百度云下载链接](https://pan.baidu.com/s/1oz_24uUjM7auBrYBQ-4EnA)  密码:3kwn
+- 网络是怎样连接的       [百度云下载链接](https://pan.baidu.com/s/13GUUvVfUh4kL_TKg6Eow_w)  密码:c6z0
+- HTTP 超全混总       [百度云下载链接](https://pan.baidu.com/s/1jW5-Ge_moCpVLPHMMSdKkA)  密码:ledv
+- Java2 网络协议内幕       [百度云下载链接](https://pan.baidu.com/s/1T8nRDBwL1sj6IJ5q9aaNIw)  密码:vdr9
+- TCPIP 详解       [百度云下载链接](https://pan.baidu.com/s/1C_YRv-LUvTYTr9Vagk5YbQ)  密码:wy6q
+- WireShark       [百度云下载链接](https://pan.baidu.com/s/1x_Opx6S2yTJMKLmhVkJH5A)  密码:jkb4
+-        [百度云下载链接]()  密码:
 
 # 09、操作系统
 
