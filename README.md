@@ -115,6 +115,11 @@
 -        [百度云下载链接]()  密码:
 
 # 03、底层
+- 深入理解 Java 内存模型       [百度云下载链接](https://pan.baidu.com/s/1F86DE2T3OvYYkqD4N9NQGw)  密码:28q5
+- 深入理解 Java 虚拟机       [百度云下载链接](https://pan.baidu.com/s/1OClqs12UeXyhxGrWw850Ww)  密码:53xn
+- 实战 Java 虚拟机 JVM 故障诊断与性能优化       [百度云下载链接](https://pan.baidu.com/s/1246-5ttUrlA7tabbmQvWDw)  密码:5mau
+- Java JDK 学习笔记       [百度云下载链接](https://pan.baidu.com/s/1ykA-FSBflNwXipnKdh4wwQ)  密码:moi8
+-        [百度云下载链接]()  密码:
 
 # 04、框架
 
