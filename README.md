@@ -175,6 +175,10 @@
 -        [百度云下载链接]()  密码:
 
 # 07、工具
+- Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1XKcLP1IGPK9E7FLub2yubg)  密码:5hyw
+- Eclipse 插件开发学习笔记       [百度云下载链接](https://pan.baidu.com/s/1x-ff0k1ItOyhVb8Y3tN-FQ)  密码:bmbc
+- Git 权威指南       [百度云下载链接](https://pan.baidu.com/s/1VmPX4YU_VP-pkZD1lgaJqg)  密码:wvch
+-        [百度云下载链接]()  密码:
 
 # 08、计算机网络
 
