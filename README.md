@@ -189,16 +189,49 @@
 - Java2 网络协议内幕       [百度云下载链接](https://pan.baidu.com/s/1T8nRDBwL1sj6IJ5q9aaNIw)  密码:vdr9
 - TCPIP 详解       [百度云下载链接](https://pan.baidu.com/s/1C_YRv-LUvTYTr9Vagk5YbQ)  密码:wy6q
 - WireShark       [百度云下载链接](https://pan.baidu.com/s/1x_Opx6S2yTJMKLmhVkJH5A)  密码:jkb4
+- TCP IP 网络编程       [百度云下载链接](https://pan.baidu.com/s/1ZaWqcbJuN3WdRSpmFY5evg)  密码:2erz
 -        [百度云下载链接]()  密码:
 
 # 09、操作系统
 
+- 深入理解计算机系统       [百度云下载链接](https://pan.baidu.com/s/109rm5NKNSmNg72f0NUDULA)  密码:z6fb
+- 深入理解 Linux 网络技术内幕       [百度云下载链接](https://pan.baidu.com/s/129bdZ0RAzK6U384CoW3jNg)  密码:1hyk
+- Linux 与 Unix shell 编程指南       [百度云下载链接](链接:https://pan.baidu.com/s/1SlDCzevtPamWXjDWieOqlQ)  密码:p3a4
+- 操作系统原理       [百度云下载链接](https://pan.baidu.com/s/1fR45_HLSoI24QR6GEMcFlA)  密码:2e6w
+- 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/17ryZYUdY3HUfXiW1ae154A)  密码:8k4g
+- 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1PeL15iPodn0s_DBRitj4gw)  密码:ze5x
+- 计算机是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1SqgVJWK0K_xERtVPWvXb6Q)  密码:tjh2
+- 认识操作系统       [百度云下载链接](https://pan.baidu.com/s/1DyOqxs5t3aLXcnzLSFlz8g)  密码:hbnk
+- Windows 内核原理与实现       [百度云下载链接](https://pan.baidu.com/s/11W_d29h8KRQJzH3JfJlMpg)  密码:sw7o
+-        [百度云下载链接]()  密码:
+-        [百度云下载链接]()  密码:
+
 ## Linux环境编程
+
+- Linux-Unix 系统编程手册       [百度云下载链接](https://pan.baidu.com/s/1et7DU-ZrwmmgNKn7Nyld7w)  密码:9ica
+- Linux 高性能服务器编程       [百度云下载链接](https://pan.baidu.com/s/1HmjNcdhW0xpRDQVP2NPqAg)  密码:ixw4
+- Unix 环境高级编程       [百度云下载链接](https://pan.baidu.com/s/1vqDpRHwbz_d4gM2b5K8FKA)  密码:jwd5
+
 ## Linux基础知识
+
+- 鸟哥的 Linux 私房菜       [百度云下载链接](https://pan.baidu.com/s/1mN1WSsFGl2wwaP7N-iXL0g)  密码:szbn
+- Linux 程序设计       [百度云下载链接](https://pan.baidu.com/s/1DqOnyS-WhY2TkuqEVY49-w)  密码:p6qx
+- Linux 命令行与 shell 脚本编程大全       [百度云下载链接](https://pan.baidu.com/s/1sIEOsr0AqxxbvmATD9rqeg)  密码:7jhf
+
 ## Linux内核
+
+- 深入理解 Linux 内核       [百度云下载链接](https://pan.baidu.com/s/1k2-6fyblYM0mJPyDSuDzwA)  密码:q1qx
+- 深入 Linux 内核架构       [百度云下载链接](https://pan.baidu.com/s/1AhUrwM1rcYsT-ytEtjKIgw)  密码:p0s0
+-  Linux 内核源代码情景分析       [百度云下载链接](https://pan.baidu.com/s/1wl5itJcmpGaQacqmw0SbiQ)  密码:ftgn
+
 ## Linux网络编程
 
+- Linux 多线程服务端编程       [百度云下载链接](https://pan.baidu.com/s/1D7799-7dv1wHbdla2YPROQ)  密码:yr8h
+- Unix 网络编程       [百度云下载链接](https://pan.baidu.com/s/1w6HOvIZFRw-KfAZotyDOaQ)  密码:ozhb
+
 # 10、数据库
+
+-        [百度云下载链接]()  密码:
 
 ## MySQL
 ## SQL
