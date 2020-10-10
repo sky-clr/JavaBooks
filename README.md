@@ -94,7 +94,7 @@
 - Java 技术手册       [百度云下载链接](https://pan.baidu.com/s/1t2TFaRBdg02gNA-Bq-bEdQ)  密码:3dw1
 - Java 趣味编程 100 例       [百度云下载链接](https://pan.baidu.com/s/1FNvBffCGd95QelZ8PhqU4Q)  密码:9i37
 - Java 入门 123       [百度云下载链接](https://pan.baidu.com/s/1Jm8PEcEkgfXBsudYYw6brg)  密码:b0xo
-- Java 网络编程       [百度云下载链接](链接:https://pan.baidu.com/s/1w6qlKHcGTr-zwpJrMEOhJQ)  密码:r4ri
+- Java 网络编程       [百度云下载链接](https://pan.baidu.com/s/1w6qlKHcGTr-zwpJrMEOhJQ)  密码:r4ri
 
 -        [百度云下载链接]()  密码:
 
@@ -104,6 +104,15 @@
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1iIHm0kRlfwck3IQn-BUZZA)  密码:kk84
 
 # 02、并发编程
+
+- Java 并发编程之美       [百度云下载链接](https://pan.baidu.com/s/1ES2tjW9OqKJn-ep3T1MLxw)  密码:ey17
+- 精通 Java 并发编程       [百度云下载链接](https://pan.baidu.com/s/1LIaurRvHRh8rqEGPQtUkBA)  密码:jz7g
+- 深入浅出 Java 多线程       [百度云下载链接](https://pan.baidu.com/s/1rTpFmnDzENcKVYILNvQ1mA)  密码:0ltw
+- 实战 Java 高并发程序设计       [百度云下载链接](https://pan.baidu.com/s/10BchWVKfq2SutxSI7NNVnQ)  密码:jc16
+- Java 并发编程实战       [百度云下载链接](https://pan.baidu.com/s/1tYU7HfwloKcrtqD9Pfb_0g)  密码:bmea
+- Java 并发编程的艺术       [百度云下载链接](https://pan.baidu.com/s/1AJzLVke_R4RxywH-VHkZ6w)  密码:bya8
+- Java 多线程编程实战指南       [百度云下载链接](https://pan.baidu.com/s/1oVoilw_ZBXdIEyxCE8QcDQ)  密码:62ji
+-        [百度云下载链接]()  密码:
 
 # 03、底层
 
