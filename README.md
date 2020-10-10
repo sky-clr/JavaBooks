@@ -166,6 +166,14 @@
 
 # 06、设计模式
 
+- 23 种设计模式知识要点       [百度云下载链接](https://pan.baidu.com/s/1YUNRpWQbmf_CxLBJfQ5cNQ)  密码:g7cr
+- 大话设计模式       [百度云下载链接](https://pan.baidu.com/s/1a8DydQ19uhmGiysZFFVIow)  密码:q8z1
+- 设计模式：可复用面向对象软件的基础       [百度云下载链接](https://pan.baidu.com/s/1jgVBXBZx7QlTBoaSYY3_zQ)  密码:3z6w
+- 设计模式之禅       [百度云下载链接](https://pan.baidu.com/s/1XypqSm60HaJ8ZJGyldRHRw)  密码:e43l
+- 深入浅出设计模式       [百度云下载链接](https://pan.baidu.com/s/1IcqedxXCzcy5j6Td6qukKQ)  密码:bkiy
+-  Head First 设计模式       [百度云下载链接](https://pan.baidu.com/s/1ZQM79fC9riGm3VI1ps0NRw)  密码:bbkk
+-        [百度云下载链接]()  密码:
+
 # 07、工具
 
 # 08、计算机网络
