@@ -7,11 +7,7 @@
 
 >顺带宣传一下我关注的这个原创公众号：专注于 Java 编程技术和程序员软实力的方方面面，欢迎小伙伴们扫一扫关注一下，一定会大有所获。
 
-计算机类的书籍那么贵，作为一个几个小时看完一本书且机不离身的程序员，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。为了方便广大的小伙伴也能方便找到对应的电子书，我花费洪荒之力从各个搜索网站收集了几百本常用的电子书。
-
-> 宣传一个我看过的优秀的微信公众号：这个公众号专注于写**数据结构+算法**，**计算机基础**（如计算机网络+操作系统+Linux+MySQL）等文章，欢迎广大用户扫一扫关注一波，我想你一定让你有所收获。
-
-![微信搜索”沉默王二“也可以找得到](https://github.com/itwanger/JavaBooks/blob/master/cmower.jpg)
+![图片没显示的时候，微信搜索”沉默王二“也可以找得到](https://github.com/itwanger/JavaBooks/blob/main/cmower.jpg)
 
 > **重要说明**：**如果目录无法跳转的话，直接往下拖动滚动条就可以了**，有小伙伴反馈他跳转不了，嗯哼，手机是绝对跳转不了的。
 
@@ -81,6 +77,26 @@
 
 
 # 01、入门
+
+- 第一行代码 Java       [百度云下载链接](https://pan.baidu.com/s/1BMgrpWxCP0GPDDkbvPd0JQ)  密码:h3wu
+- 疯狂 Java 讲义       [百度云下载链接](https://pan.baidu.com/s/1QrihmUS5l758Cu88rtZMrw)  密码:vfxa
+- 黑马程序员 Java 自学宝典       [百度云下载链接](https://pan.baidu.com/s/1GhiaYIc2oJmtFh7xRtatkQ)  密码:czyx
+- Head First Java       [百度云下载链接](https://pan.baidu.com/s/1X1tUgjYyHZOKCUZ_A0MUag)  密码:scml
+- Java 8 实战       [百度云下载链接](https://pan.baidu.com/s/1uhWY4WUTFExrSPMrjfK_EQ)  密码:94ui
+- Java 基础核心总结       [百度云下载链接](https://pan.baidu.com/s/1m0ulsrvFIv-HtOlRgmc0gA)  密码:7qzg
+- Java 软件开发复习提纲       [百度云下载链接](https://pan.baidu.com/s/1_yjHS6ca5NWIUmUf0pYgwQ)  密码:pekf
+- Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1Vg0BHy70A8RxeKTAM0LN-Q)  密码:areg
+- Java 程序设计语言       [百度云下载链接](https://pan.baidu.com/s/1-iS2t0knKfklXsA0tlNfLw)  密码:6jl2
+- Java 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1YI0POaxcSKkNeH16ngtYwg)  密码:0njf
+- Java 从小白到大牛       [百度云下载链接](https://pan.baidu.com/s/1OoRdJsm6zAvCJ4sgF6NB6g)  密码:0o88
+- Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/11xuVn-ZfxVORdRJznLGD2w)  密码:i7ls
+- Java 核心知识点整理       [百度云下载链接](https://pan.baidu.com/s/1uTFjiGep72nPILcVfru5ew)  密码:zguh
+- Java 技术手册       [百度云下载链接](https://pan.baidu.com/s/1t2TFaRBdg02gNA-Bq-bEdQ)  密码:3dw1
+- Java 趣味编程 100 例       [百度云下载链接](https://pan.baidu.com/s/1FNvBffCGd95QelZ8PhqU4Q)  密码:9i37
+- Java 入门 123       [百度云下载链接](https://pan.baidu.com/s/1Jm8PEcEkgfXBsudYYw6brg)  密码:b0xo
+- Java 网络编程       [百度云下载链接](链接:https://pan.baidu.com/s/1w6qlKHcGTr-zwpJrMEOhJQ)  密码:r4ri
+
+-        [百度云下载链接]()  密码:
 
 - 挑战程序设计竞赛       [百度云下载链接](https://pan.baidu.com/s/1diObrFpHKm4r-XyTp4cGAQ)  密码:mxn7
 - 计算机程序设计艺术1-3卷       [百度云下载链接](https://pan.baidu.com/s/1rxEqkKAogFpy1aNQnXUyBw)  密码:i3nh
