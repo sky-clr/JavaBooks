@@ -260,6 +260,19 @@
 
 # 11、数据结构与算法
 
+- 啊哈算法       [百度云下载链接](https://pan.baidu.com/s/1VxD0uuLIbrXaLyK7OpA6IA)  密码:k23f
+- 编程珠玑       [百度云下载链接](https://pan.baidu.com/s/1XpX3vMXSo8MzkCH5GtoNMw)  密码:dl7g
+- 大话数据结构       [百度云下载链接](https://pan.baidu.com/s/1wvtpHBW6gZZ8GwV4K2PchA)  密码:22l4
+- 趣学算法       [百度云下载链接](https://pan.baidu.com/s/1EnhaqqQ9xQDX8XXjo50tWQ)  密码:45iu
+- 数据结构与算法分析-Java 描述       [百度云下载链接](https://pan.baidu.com/s/1UFbSj54WZx1Sx7WH6HNDYw)  密码:hfgu
+- 数字图像处理-Java 语言算法描述       [百度云下载链接](https://pan.baidu.com/s/199vfk-D-hUv5MbT43fMXOQ)  密码:c81l
+- 算法       [百度云下载链接](https://pan.baidu.com/s/1QFT0YcvDARNVsuxHx28pWg)  密码:xuc2
+- 算法导论       [百度云下载链接](https://pan.baidu.com/s/1YaAacR3vcCA4KLGfBOlNnQ)  密码:t5eh
+- 算法图解       [百度云下载链接](https://pan.baidu.com/s/1_zdmCLcxPFfGQAJs1MZ7Xw)  密码:w3sj
+- Java 常用算法       [百度云下载链接](https://pan.baidu.com/s/17wC93Q0EMmAdSS_wWzJSqQ)  密码:vegf
+- Java 数据结构和算法       [百度云下载链接](https://pan.baidu.com/s/1skapKViDjwsZBHkBy6LO2A)  密码:hq0x
+-        [百度云下载链接](
+
 # 12、大数据
 
 ## 分布式日志收集
