@@ -34,7 +34,6 @@
 - [11、数据结构与算法](#11、数据结构与算法)
 - [12、大数据](#12、大数据)
 - [13、架构](#13、架构)
-  - [架构师](#架构师)
 - [14、面试](#14、面试)
   - [2020 最新 Java 面试题](#2020最新Java面试题)
   - [简历](#简历)
@@ -277,9 +276,22 @@
 
 # 13、架构
 
-## 架构师
+- 大型网站技术架构 核心原理与案例分析       [百度云下载链接](https://pan.baidu.com/s/1DlpHzgROfj7YMK3xXZiGyA)  密码:kwbc
+- 大型网站系统与 Java 中间件实践       [百度云下载链接](https://pan.baidu.com/s/1IDWaWB1urbo3YllqzhSNXg)  密码:31b4
+- 高性能高并发服务器架构       [百度云下载链接](https://pan.baidu.com/s/1irzqPnGy9krnUqx5kIGIyg)  密码:7hi1
+- 架构风格与基于网络的软件架构设计       [百度云下载链接](https://pan.baidu.com/s/1wb9gK1IQXtAsiW3gST24Eg)  密码:r4c1
+- 架构之美       [百度云下载链接](https://pan.baidu.com/s/1u6JbAwcuzSevPXaynrkMDg)  密码:rdh3
+- 大型网站系统与 Java 中间件实践       [百度云下载链接](https://pan.baidu.com/s/1ZudKfAxnQ0AdkFJkRc2_VA)  密码:i0ll
+- 亿级流量网站架构核心技术       [百度云下载链接](https://pan.baidu.com/s/1C5bsYpE0T2WuYwSRYiEacw)  密码:z0m5
+
 
 # 14、面试
+
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
 
 ## 2020最新Java面试题
 ## 简历
