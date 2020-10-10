@@ -35,12 +35,6 @@
 - [12、大数据](#12、大数据)
 - [13、架构](#13、架构)
 - [14、面试](#14、面试)
-  - [2020 最新 Java 面试题](#2020最新Java面试题)
-  - [简历](#简历)
-  - [力扣](#力扣)
-  - [BAT 面试题](#BAT面试题)
-  - [Dubbo 面试题](#Dubbo面试题)
-  - [Spring 面试题](#Spring面试题)
 - [15、扩展](#15、扩展)
   - [领域驱动设计](#DDD)
   - [区块链](#区块链)
@@ -277,7 +271,6 @@
 # 13、架构
 
 - 大型网站技术架构 核心原理与案例分析       [百度云下载链接](https://pan.baidu.com/s/1DlpHzgROfj7YMK3xXZiGyA)  密码:kwbc
-- 大型网站系统与 Java 中间件实践       [百度云下载链接](https://pan.baidu.com/s/1IDWaWB1urbo3YllqzhSNXg)  密码:31b4
 - 高性能高并发服务器架构       [百度云下载链接](https://pan.baidu.com/s/1irzqPnGy9krnUqx5kIGIyg)  密码:7hi1
 - 架构风格与基于网络的软件架构设计       [百度云下载链接](https://pan.baidu.com/s/1wb9gK1IQXtAsiW3gST24Eg)  密码:r4c1
 - 架构之美       [百度云下载链接](https://pan.baidu.com/s/1u6JbAwcuzSevPXaynrkMDg)  密码:rdh3
@@ -287,33 +280,71 @@
 
 # 14、面试
 
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
+- 2020年字节跳动Java 工程师面试题       [百度云下载链接](https://pan.baidu.com/s/1qmd9D95P4qX0qdB5v08S9Q)  密码:aisr
+- 2020最新Java面试题资料       [百度云下载链接](https://pan.baidu.com/s/1pR81bhqUcDZG8hW7ZJLxFA)  密码:dcxx
+- 程序员代码面试指南 IT名企算法与数据结构题目最优解       [百度云下载链接](https://pan.baidu.com/s/1weQXP_euoYZoVpquMSdZJw)  密码:z5ev
+- 编程之美       [百度云下载链接](https://pan.baidu.com/s/1YP-UlmaXcmqcw0UUqxoz9A)  密码:cj9l
+- 程序员面试宝典       [百度云下载链接](https://pan.baidu.com/s/1Y7rLWfL-COnsFJ17F-ffjw)  密码:32lr
+- 剑指Offer：名企面试官精讲典型编程题       [百度云下载链接](https://pan.baidu.com/s/1Gwi4GpLuKvqeTxpC6n2FiA)  密码:kdjr
+- 简历模板与优化       [百度云下载链接](https://pan.baidu.com/s/1TJPvjY-litDX1PmPoSTXew)  密码:x6r4
+- 面试必问之jvm与性能优化       [百度云下载链接](https://pan.baidu.com/s/1ClG4zmkZ7Mc0svEko1t01w)  密码:13p9
+- 如何刷力扣以及最优解       [百度云下载链接](https://pan.baidu.com/s/1cvYUbkkyWrkezPLhNvd8rw)  密码:gage
+- Spring 面试题       [百度云下载链接](https://pan.baidu.com/s/1xi6Rz_2CV8veefom04yNTw)  密码:3jpt
+- JavaGuide 面试突击       [百度云下载链接](https://pan.baidu.com/s/1svtM08HRhBAVMAn0u3thGw)  密码:1rbk
+- Java面试题以及答案       [百度云下载链接](https://pan.baidu.com/s/1FaShxKtPjHQL6y_3QdUXUg)  密码:rrgm
+- Java 核心面试知识整理       [百度云下载链接](https://pan.baidu.com/s/1q256y4km9S-_-rNbzjnepQ)  密码:04ph
+- Dubbo 面试题       [百度云下载链接](https://pan.baidu.com/s/127Kgs79_Da1W3GgrT8Ky1A)  密码:ertk
+- BAT面试常问80题       [百度云下载链接](https://pan.baidu.com/s/1WKevumOK6vxbttFv4L9kSw)  密码:4heu
+- 一线互联网企业面试题       [百度云下载链接](https://pan.baidu.com/s/1DOdO9DkShmmUy42OktAz4Q)  密码:tuxg
+- 最新Java程序员面试宝典       [百度云下载链接](https://pan.baidu.com/s/14JPZFWFiwGiG2h7OGIHXdg)  密码:4xe7
+-        [百度云下载链接]()
 
-## 2020最新Java面试题
-## 简历
-## 力扣
-## BAT面试题
-## Dubbo面试题
-## Spring面试题
 
 # 15、扩展
 
+-        [百度云下载链接]()
+
 ## DDD
+
+- 领域驱动设计.软件核心复杂性应对之道       [百度云下载链接](https://pan.baidu.com/s/1d9BHNWVUfYFP9nGdV0FFgg)  密码:va6z
+- 领域驱动设计精简版       [百度云下载链接](https://pan.baidu.com/s/1juvl8VxjCKfvNVqmogETCQ)  密码:eiug
+
 ## 区块链
 ## 人工智能
 ## 搜索引擎
+
+- 开发自己的搜索引擎--Lucene+Heritrix       [百度云下载链接](https://pan.baidu.com/s/18L-iLjn-oN264sUWbW5-Mw)  密码:b784
+- SolrJ教程       [百度云下载链接](https://pan.baidu.com/s/1qPCrZoEnCPkrjiMHhWeVwQ)  密码:rfyp
+
 ## 网络安全
+
+- Java 加密与解密的艺术       [百度云下载链接](https://pan.baidu.com/s/1fEx7JgjpyY9w8Gf2zlpn1g)  密码:u1q6
+
 ## 消息队列
+
+- RabbitMQ实战 高效部署分布式消息队列       [百度云下载链接](https://pan.baidu.com/s/1JpISdtotQPSfC07gOBwpUg)  密码:r5vc
+
 ## 云计算
+
+- 大话云计算       [百度云下载链接](https://pan.baidu.com/s/1D06IJs0rKxNVZgntGVUtEA)  密码:vql4
+
 ## AR&VR
 ## Docker
+
+- 第一本Docker书       [百度云下载链接](https://pan.baidu.com/s/1gyqJsmpgmFZ9xxmzKmPNzw)  密码:kp36
+
 ## IoT
 ## Kubernets
+
+- KUBERNETES权威指南  从DOCKET到KURBERNETES实践全接触       [百度云下载链接](https://pan.baidu.com/s/1ALzw8GyNfo3eQ8erOnaXJQ)  密码:ik8g
+
 ## 其他语言
+
+### groovy
+
+- groovy 程序设计       [百度云下载链接](https://pan.baidu.com/s/1_Hin3aedMnondd_9rp0mgg)  密码:r01y
+
+
 
 ### C
 ### C++
