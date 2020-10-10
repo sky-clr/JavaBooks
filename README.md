@@ -123,30 +123,46 @@
 
 # 04、框架
 
-- MyBatis 从入门到精通       [百度云下载链接]()  密码:
-- Hibernate 实战       [百度云下载链接]()  密码:
+- MyBatis 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1bPVEln5932dP8ZPWZqvgRw)  密码:j4bd
+- Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/1NGzYekjHzw9tC0Ja2Tgh9g)  密码:jkjk
 
 ## Netty
 
-- Netty 进阶之路 跟着案例学       [百度云下载链接]()  密码:
-- Netty 权威指南       [百度云下载链接]()  密码:
-- Netty 实战       [百度云下载链接]()  密码:
+- Netty 进阶之路 跟着案例学       [百度云下载链接](https://pan.baidu.com/s/1ZvFrtqNUjzqHV6xBgu0zyg)  密码:nawj
+- Netty 权威指南       [百度云下载链接](https://pan.baidu.com/s/184_coG1S53fVTDtwCxK4PQ)  密码:6wfr
+- Netty 实战       [百度云下载链接](https://pan.baidu.com/s/1hrXShQDFgulisFTvzwop_A)  密码:28h9
 
 ## Spring
 
-- Spring 知识点概述       [百度云下载链接]()  密码:
-- Spring 技术手册       [百度云下载链接]()  密码:
-- Spring 揭秘       [百度云下载链接]()  密码:
-- Spring 实战       [百度云下载链接]()  密码:
+- Spring 知识点概述       [百度云下载链接](https://pan.baidu.com/s/1yV6vopPYoOSwFp_VsDux1w)  密码:5030
+- Spring 技术手册       [百度云下载链接](https://pan.baidu.com/s/1xrfQvlCNQEra4dc4Y_RHSQ)  密码:auod
+- Spring 揭秘       [百度云下载链接](https://pan.baidu.com/s/1anpZPxtHLet_ztD8dl__0w)  密码:naj8
+- Spring 实战       [百度云下载链接](https://pan.baidu.com/s/1ojIW0bzHe_q9R2QQuz2Fag)  密码:5ofr
 
 ## Struts2
 
-- 开发技巧和整合策略-Struts2       [百度云下载链接]()  密码:
-- Struts2 技术内幕——深入解析 Struts2 架构设计与实现原理       [百度云下载链接]()  密码:
+- 开发技巧和整合策略-Struts2       [百度云下载链接](https://pan.baidu.com/s/1a05vxNFmh-5RDAwf2FX9xA)  密码:7h9k
+- Struts2 技术内幕——深入解析 Struts2 架构设计与实现原理       [百度云下载链接](https://pan.baidu.com/s/1TOL5qglsoPPR8WavXHZ6_Q)  密码:zisb
 -        [百度云下载链接]()  密码:
 
 
 # 05、性能优化
+
+- 编写高质量代码：改善 Java 程序的 151 个建议       [百度云下载链接](https://pan.baidu.com/s/14dV9tkqpN9C8DyAT71RZnA)  密码:55he
+- 代码整洁之道       [百度云下载链接](https://pan.baidu.com/s/1oUvpAzgc3AUNaZ_j9QfWIA)  密码:q0ue
+- 代码之美精选版       [百度云下载链接](https://pan.baidu.com/s/132oIMvrl9R3Klkt0HvILYw)  密码:dnjq
+- 码出高效：Java 开发手册       [百度云下载链接](https://pan.baidu.com/s/1YowriQK_29XXYLUcJWcOBg)  密码:y44i
+- 嵩山版阿里巴巴 Java 开发手册       [百度云下载链接](https://pan.baidu.com/s/1w2zqCZwtfRymhNgyyhnS0g)  密码:imx2
+- 重构       [百度云下载链接](https://pan.baidu.com/s/1FtuASLpEnVUjC35b7UJw3A)  密码:k573
+- Effective Java       [百度云下载链接](https://pan.baidu.com/s/1gVjeh1p-LSgSgcDZM_Is3Q)  密码:cvho
+- Java 程序性能优化       [百度云下载链接](https://pan.baidu.com/s/1CSWmfOXn287U7l7IOhPeIA)  密码:u2lw
+- Java 程序员修炼之道       [百度云下载链接](https://pan.baidu.com/s/1XuhahV5foh43Jtojz7-pgA)  密码:kdpv
+- Java 工程师修炼之道       [百度云下载链接](https://pan.baidu.com/s/1FI3qObpZj0ZrvjFhKu6elw)  密码:howk
+- Java 性能权威指南       [百度云下载链接](https://pan.baidu.com/s/1n14j_9yEz15V94zfzIP_QQ)  密码:8mhp
+- JVM 性能优化       [百度云下载链接](https://pan.baidu.com/s/1awOGNKhbLxK4RHBlKRjKAw)  密码:ttsw
+- MySQL 性能优化       [百度云下载链接](https://pan.baidu.com/s/1Olm7bcTlBYsAdHznCT2TSg)  密码:iyt4
+- Tomcat 性能优化       [百度云下载链接](https://pan.baidu.com/s/1IMdRgWWHMcZna81Gy7e1mw)  密码:o9bh
+-        [百度云下载链接]()  密码:
 
 # 06、设计模式
 
