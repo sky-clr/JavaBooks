@@ -344,9 +344,16 @@
 
 - groovy 程序设计       [百度云下载链接](https://pan.baidu.com/s/1_Hin3aedMnondd_9rp0mgg)  密码:r01y
 
-
-
 ### C
+
+- C Primer Plus       [百度云下载链接](https://pan.baidu.com/s/1_VZ3ru4M6WWv4FhH_zP-ig)  密码:slkq
+- C 和指针       [百度云下载链接](https://pan.baidu.com/s/1OxEV43huVaa8Eus0kXcfkA)  密码:2r6g
+- C 陷阱与缺陷       [百度云下载链接](https://pan.baidu.com/s/1gRN92VZp3iVo3gdbgpuB0w)  密码:01yi
+- C 专家编程       [百度云下载链接](https://pan.baidu.com/s/17f-GuxrmqwCyDEjjoWMJDA)  密码:4yx4
+- 深度探索 C 对象模型       [百度云下载链接](https://pan.baidu.com/s/1yp1d4dOA94_p6UWUAEQ-pg)  密码:ru37
+- 数据结构与算法分析——C 语言描述       [百度云下载链接](https://pan.baidu.com/s/1D-WnF9ZZ_UZplh7Yrs-COw)  密码:wb82
+
+
 ### C++
 ### JavaScript
 ### JavaWeb
