@@ -372,6 +372,10 @@
 - More Effective C++中文       [百度云下载链接](https://pan.baidu.com/s/1b7btkouM-N8y99F2TwGZBw)  密码:405u
 - STL源码剖析--侯捷       [百度云下载链接](https://pan.baidu.com/s/15ofHnLeQ6MIXeX-0Gl3J9g)  密码:ot8h
 
+### JavaScript
+
+- 学习 go 语言       [百度云下载链接](https://pan.baidu.com/s/1mCJp4FwTrBNUnaPw0HjOUQ)  密码:7s6k
+- go 语言编程       [百度云下载链接](https://pan.baidu.com/s/1l-SDVhA0LSMHGcIY0vX8lQ)  密码:dbpz
 
 ### JavaScript
 
