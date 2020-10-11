@@ -452,13 +452,44 @@
 
 # 16、管理
 
+- 人月神话       [百度云下载链接](https://pan.baidu.com/s/1JbVBb20rpSZyrsF1RRxy3g)  密码:r5gj
+- 微管理：给你一个技术团队，你该怎么管（全彩）       [百度云下载链接](https://pan.baidu.com/s/1X8gn1szeqpXNHb4QTOd5kg)  密码:tfdx
+
 # 17、加餐
+
+- 《阿里技术参考图册》（算法篇）       [百度云下载链接](https://pan.baidu.com/s/1twoN0-VWUGqsYXjhVgGrWQ)  密码:vmmc
+- 《阿里技术参考图册》（研发篇）       [百度云下载链接](https://pan.baidu.com/s/1Q07ca5XMZ4dODAV7fxaapg)  密码:5dnq
+- 沉默的大多数       [百度云下载链接](https://pan.baidu.com/s/1qTQ3IpBYi6CJ2Z-IIzZrdQ)  密码:c6qh
+- 程序员必知的硬核知识大全       [百度云下载链接](https://pan.baidu.com/s/1-WZnZVqvDj0ssI66575fbQ)  密码:apmy
+- 程序员的职业素养       [百度云下载链接](https://pan.baidu.com/s/1MdCq4MOYR39tJsHQX0jhwA)  密码:g5p8
+- 程序员内功修炼-V2.0       [百度云下载链接](https://pan.baidu.com/s/1cKgWCMugTBx1TDZAXnuhSw)  密码:o22q
+- 如何变得有思想  阮一峰博客文集       [百度云下载链接](https://pan.baidu.com/s/1Q0geBWqNkb58p6hid-4D9w)  密码:eojl
+- 设计原本（中文版）       [百度云下载链接](https://pan.baidu.com/s/1ygcCmrNQ6kSiVZxfCf6djQ)  密码:bd72
+- 深入理解Nginx：模块开发与架构解析-陶辉       [百度云下载链接](https://pan.baidu.com/s/1PFx6Lv-0wHdI43npv-wmeQ)  密码:0s93
+- 深入剖析Tomcat-高清-书签       [百度云下载链接](https://pan.baidu.com/s/1zgrdcyDZoPq0l5O-_PNUBQ)  密码:pd9u
+- 数学之美       [百度云下载链接](https://pan.baidu.com/s/1dxg8BMNLxj4frIa6vUnAFQ)  密码:wtpp
+- 淘宝技术这十年       [百度云下载链接](https://pan.baidu.com/s/10GuyMPiPEJ7vtPXoeCABpw)  密码:2wu5
+- 香帅北大金融学课 线下大课       [百度云下载链接](https://pan.baidu.com/s/1HSPZz-Yq6etV0owYoBUBZg)  密码:kj74
+- 学习学习再学习       [百度云下载链接](https://pan.baidu.com/s/1VzleTEJct_5YKmW0OClQgQ)  密码:r6kn
+- 学习正则表达式       [百度云下载链接](https://pan.baidu.com/s/1T5rCFB07PjeMvoOwWc8DbA)  密码:iz6z
+- 卓有成效的程序员       [百度云下载链接](https://pan.baidu.com/s/1f3oy06-lH_43_zrAuPeS1A)  密码:b980
+- 自己动手写网络爬虫       [百度云下载链接](https://pan.baidu.com/s/12jFBH0iu8q-BBoZpenpWXg)  密码:ezf5
+- Ch3-Ch5-超人气博客是怎样炼成的       [百度云下载链接](https://pan.baidu.com/s/1OWqFVDA8XbCQe4T3Y2Q67Q)  密码:cmm3
+- how-to-be-a-programmer-cn       [百度云下载链接](https://pan.baidu.com/s/1luLLrLWU2QFcvnrwkjTxQw)  密码:7k0g
+- WEB服务_原理与技术       [百度云下载链接](https://pan.baidu.com/s/1tSwuEF4zLR_nhLGa0XXXtQ)  密码:ndf4
 
 ## Java
 
+- 由浅入深学Java—基础、进阶与必做260题       [百度云下载链接](https://pan.baidu.com/s/1EMsHdo9nXIdk3rvI4w1BvA)  密码:tn78
+- Java与模式       [百度云下载链接](https://pan.baidu.com/s/146S2h1wys1mIDsqPaVGaMw)  密码:f2va
+- Java游戏高级编程       [百度云下载链接](https://pan.baidu.com/s/1vRnlOXQyzWVzAXqK_r1iww)  密码:ghrw
+- Java应用架构设计 模块化模式与OSGi       [百度云下载链接](https://pan.baidu.com/s/1dT4nc-yC8q0HsBdDkKsJiA)  密码:9cdh
+- Java典型模块与项目实战大全       [百度云下载链接](https://pan.baidu.com/s/1dd30PJGZIQMZ224JzeP-iQ)  密码:9zrc
+
 # 18、活着
 
-
+- 程序员健康指南       [百度云下载链接](https://pan.baidu.com/s/1QmmTDSWUXab_WTDpgF8DDw)  密码:bzx0
+- 颈椎康复指南       [百度云下载链接](https://pan.baidu.com/s/1vx05aJVW_Kr7BJGwCS0kmw)  密码:o8hc
 
 
 
