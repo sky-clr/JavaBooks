@@ -379,19 +379,33 @@
 
 ### JavaScript
 
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
+- JavaScript王者归来       [百度云下载链接](https://pan.baidu.com/s/19btTsy7tEq4I57BsR1Vskg)  密码:k8l9
+- 超实用的JavaScript代码段       [百度云下载链接](https://pan.baidu.com/s/1kNWiSPLO-i9QAjoVi-QSWQ)  密码:n70r
+- 单页Web应用  JavaScript从前端到后端       [百度云下载链接](https://pan.baidu.com/s/1iF7HTO16sJnC6GpUd1VLAQ)  密码:bqjg
+- 你不知道的JavaScript       [百度云下载链接](https://pan.baidu.com/s/1pPcm8k7ug8cho9TBJe0YvQ)  密码:k4oq
+- 实战ES2015深入JavaScript现代应用开发       [百度云下载链接](https://pan.baidu.com/s/1oyc8-GS11GVNyKS5jZrvKA)  密码:mcqj
+- 数据结构与算法JavaScript描述       [百度云下载链接](https://pan.baidu.com/s/1Fwlq4wqsRisEI3anE-5yQA)  密码:zhrk
+- ES6深入浅出       [百度云下载链接](https://pan.baidu.com/s/16_Aw4C6ukirHA1j2l73lFw)  密码:2fc7
+- JavaScript DOM编程艺术       [百度云下载链接](https://pan.baidu.com/s/1Qo-bAIgMlkgXy_Jzk6HkKg)  密码:bjdn
+- JavaScript.DOM高级程序设计       [百度云下载链接](https://pan.baidu.com/s/1awDGCV0q_hok3xda1Etcnw)  密码:h4ql
+- JavaScript宝典(第6版)       [百度云下载链接](https://pan.baidu.com/s/1Xehl31m79-S8eDrxofBrpQ)  密码:voxy
+- JavaScript编程全解       [百度云下载链接](https://pan.baidu.com/s/1ZoNGRWTJbBlpXHsSRbPvTg)  密码:0o3b
+- JavaScript从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1XwS9vGBm_GfYm18cy8HP9w)  密码:5g1l
+- JavaScript高级程序设计(第2版)       [百度云下载链接](https://pan.baidu.com/s/1BwsQmQ3eBWMXsGSxim-4Gw)  密码:z2nj
+- JavaScript捷径教程       [百度云下载链接](链接:https://pan.baidu.com/s/17QdQ7BeVcVnnx0_MhJEFPw)  密码:bh9a
+- JavaScript框架高级编程       [百度云下载链接](https://pan.baidu.com/s/1Xq4okvBW4n-0uz_sLby2kQ)  密码:1yxr
+- Javascript框架设计       [百度云下载链接](https://pan.baidu.com/s/11iURNfstG7x0t_-L8NoaIQ)  密码:bq9j
+- JavaScript面向对象编程指南       [百度云下载链接](https://pan.baidu.com/s/1BNh6tdFJtwaVg_oFiyiq7w)  密码:wv2v
+- JavaScript启示录       [百度云下载链接](https://pan.baidu.com/s/1Il5T_kamqY4WNAK7MmWGEw)  密码:udkt
+- JavaScript权威指南第六版       [百度云下载链接](https://pan.baidu.com/s/13-zI-Ps0dbMca1Pr64vn7Q)  密码:q9t5
+- JavaScript入门经典(第3版)       [百度云下载链接](https://pan.baidu.com/s/1pdGcTvma0nKXdZUzLAKy4g)  密码:ayse
+- JavaScript设计模式-张容铭扫描版       [百度云下载链接](https://pan.baidu.com/s/1niaTxswOxSqWqp3olQVpLg)  密码:bkas
+- JAVASCRIPT设计模式       [百度云下载链接](https://pan.baidu.com/s/1TMlKUugJ2LRtktDOvOe8OA)  密码:bq02
+- ppk谈JavaScript       [百度云下载链接](https://pan.baidu.com/s/1LFk7_qpl107ADtwZGsSuhg)  密码:5z7x
+- JavaScript语言精髓与编程实践       [百度云下载链接](https://pan.baidu.com/s/1huGUcE4LzglNlneG9FbM0A)  密码:sdut
+- JavaScript语言精粹       [百度云下载链接](https://pan.baidu.com/s/121ZQXU2eenygFfEpYDLkSw)  密码:sz8y
+- JavaScript 异步编程       [百度云下载链接](https://pan.baidu.com/s/1G3HGlkWrNnclvGvwQ4_c8A)  密码:nfof
+- JavaScript 开发技术大全       [百度云下载链接](https://pan.baidu.com/s/1PDBXQRFsRTYs3gpo1oEIGw)  密码:81bv
 -        [百度云下载链接](
 
 ### JavaWeb
