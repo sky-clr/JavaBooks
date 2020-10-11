@@ -355,11 +355,100 @@
 
 
 ### C++
+
+
+- 大规模 C++程序设计       [百度云下载链接](链接:https://pan.baidu.com/s/1BuGAUlI6zpalbj6R6zxlQA)  密码:9dre
+- 牛客校招面试题（附答案与解析）c++篇       [百度云下载链接](https://pan.baidu.com/s/1KLI8W42eEArdOSFOULH-hw)  密码:56dk
+- 深度探索C++对象模型       [百度云下载链接](https://pan.baidu.com/s/1HL6GcvHQ6k3iLLi1JLvToQ)  密码:kzva
+- 深入理解c11新特性解析与应用       [百度云下载链接](https://pan.baidu.com/s/1nCXXWDIvB2kfTfT79UDW0A)  密码:qb5e
+- C++ 面试题库       [百度云下载链接](https://pan.baidu.com/s/1-IxamQi4WsoVeNyjeK7FAQ)  密码:ks0a
+- C++ Primer       [百度云下载链接](https://pan.baidu.com/s/1SiHPXOkzc3PkqsCG5yYU8w)  密码:98va
+- C++标准程序库—自修教程与参考手册       [百度云下载链接](https://pan.baidu.com/s/1MHMcyFFtUc99eZSgs8Pi8Q)  密码:lkaq
+- C++性能优化指南       [百度云下载链接](https://pan.baidu.com/s/1gMyirct5Kx8LwH8y3KSHxg)  密码:tmr7
+- C++语言的设计和演化       [百度云下载链接](https://pan.baidu.com/s/1x49eLzYkaaVknqGL4F1GWg)  密码:2yk7
+- Effective.Modern.C++        [百度云下载链接](https://pan.baidu.com/s/1ZG6_R2ocbSYz4LV-iBIvwA)  密码:mysz
+- Effective+STL中文版：50条有效使用STL的经验       [百度云下载链接](https://pan.baidu.com/s/1Nb-Yr7KOQ_Yvr9oP7yCGMA)  密码:yzgv
+- EffectiveC++中文版（第三版）       [百度云下载链接](https://pan.baidu.com/s/115QGr1NEEGHvwVH7UGO-tA)  密码:996k
+- More Effective C++中文       [百度云下载链接](https://pan.baidu.com/s/1b7btkouM-N8y99F2TwGZBw)  密码:405u
+- STL源码剖析--侯捷       [百度云下载链接](https://pan.baidu.com/s/15ofHnLeQ6MIXeX-0Gl3J9g)  密码:ot8h
+
+
 ### JavaScript
+
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+
 ### JavaWeb
+
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+
 ### JSP
+
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
 ### Kotlin
+
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+
 ### Python
+
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
+-        [百度云下载链接](
 
 # 16、管理
 
