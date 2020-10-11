@@ -406,67 +406,49 @@
 - JavaScript语言精粹       [百度云下载链接](https://pan.baidu.com/s/121ZQXU2eenygFfEpYDLkSw)  密码:sz8y
 - JavaScript 异步编程       [百度云下载链接](https://pan.baidu.com/s/1G3HGlkWrNnclvGvwQ4_c8A)  密码:nfof
 - JavaScript 开发技术大全       [百度云下载链接](https://pan.baidu.com/s/1PDBXQRFsRTYs3gpo1oEIGw)  密码:81bv
--        [百度云下载链接](
 
 ### JavaWeb
 
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
+- JAVA EE WEB开发实例精解       [百度云下载链接](https://pan.baidu.com/s/15Pa7gQAdiUb7wu471QOT1g)  密码:f91e
+- Java Web入门经典       [百度云下载链接](https://pan.baidu.com/s/1DervihvnVIqshYri7vqYag)  密码:34rp
+- Java Web设计模式之道       [百度云下载链接](https://pan.baidu.com/s/143bGQ2FpnIOkIO_76p5sqQ)  密码:x29z
+- Java_Web轻量级开发全体验       [百度云下载链接](https://pan.baidu.com/s/149FdMGJyGIO8_3bnaw1ODQ)  密码:x4lj
+- Java.Web开发学习手册       [百度云下载链接](https://pan.baidu.com/s/1dRWBDJR5Gx16cuj7Ej5xNg)  密码:0jru
 
 ### JSP
 
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
+- JSP 程序设计       [百度云下载链接](https://pan.baidu.com/s/17X1lEqpRgzXQXos10WAkUA)  密码:gz4a
+- JSP 技术手册       [百度云下载链接](https://pan.baidu.com/s/1fZtGYPSohLsjrZ118v5lNQ)  密码:p4ke
+- JSP 应用开发详解       [百度云下载链接](https://pan.baidu.com/s/1fPCHCPB7wo8Qk28QXkVrjA)  密码:ny0d
+- Servlet 和 JSP 学习指南       [百度云下载链接](https://pan.baidu.com/s/13NNdhTS5Gas21GjOA2VG2g)  密码:5tan
+
 ### Kotlin
 
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
+- kotlin-in-chinese       [百度云下载链接](https://pan.baidu.com/s/1DgO0s4i9swlnMQR8n4kfcA)  密码:w7s6
+- kotlin-for-android-developers-zh       [百度云下载链接](https://pan.baidu.com/s/1iXea798OTJsE4ymeh16fYQ)  密码:yxa0
 
 ### Python
 
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
--        [百度云下载链接](
+- Python+Cookbook第三版中文v2.0.0       [百度云下载链接](https://pan.baidu.com/s/1R3O1AbF8KQUlku2vb7WZeg)  密码:gqpp
+- 编程小白的第一本Python入门书       [百度云下载链接](https://pan.baidu.com/s/1I2gfyS24o7fFktpN_yz3TA)  密码:6wrg
+- 可爱的Python_中文版       [百度云下载链接](https://pan.baidu.com/s/1pvcV8k0qMP7e1pE350yRKw)  密码:5rqw
+- 利用Python进行数据分析       [百度云下载链接](https://pan.baidu.com/s/1VpaRLMyycmrLnUn2rFmoQQ)  密码:t8li
+- 深入浅出：使用Python编程       [百度云下载链接](https://pan.baidu.com/s/18srHYbg0xLMj6QkE5kR1pA)  密码:21x8
+- 用Python进行自然语言处理       [百度云下载链接](https://pan.baidu.com/s/14QgYi3xIUYHx5cXbKGxC9w)  密码:j6e7
+- Python高性能编程       [百度云下载链接](https://pan.baidu.com/s/1FZFCqo_NtOfaOnWeAHBA4A)  密码:r5co
+- Python编程：从入门到实践       [百度云下载链接](https://pan.baidu.com/s/1OA9-PZy9fT4Bquoxlz_Iag)  密码:o9gd
+- Python+Web开发：测试驱动方法       [百度云下载链接](https://pan.baidu.com/s/1eU_EgEDE008UOmZ5ylkC4Q)  密码:773h
+- python-basic       [百度云下载链接](https://pan.baidu.com/s/1mxAANI2n3bFbSuRx32Dvww)  密码:2c75
+- byte-of-python-chinese-edition       [百度云下载链接](https://pan.baidu.com/s/12o1_iHlR5VkAKe_5jwuh3g)  密码:zay4
+- Python基础教程(第2版)       [百度云下载链接](https://pan.baidu.com/s/1k5XzjyslOGlFLXNDLW-uNA)  密码:ctio
+- Python进阶-v1.1       [百度云下载链接](https://pan.baidu.com/s/1KGUVTVYlIkLy65Ui0YQ0Ew)  密码:n29z
+- Python核心编程(第二版)       [百度云下载链接](https://pan.baidu.com/s/1JxdRR1uBtMWcwwaSvWL3qg)  密码:pvtf
+- Python最佳实践指南（中）       [百度云下载链接](https://pan.baidu.com/s/11o9jE9Jq27KFkY48uTxQwg)  密码:zaxx
+- PYTHON自然语言处理【中文版】       [百度云下载链接](https://pan.baidu.com/s/17qV_RcUmIu4C3ArNWKrYtA)  密码:7bf7
+- Python源码剖析（陈儒-2008-电子工业出版）       [百度云下载链接](https://pan.baidu.com/s/1Z56ABQBpVnwpt5izYY-VEA)  密码:kph9
+- Python网络数据采集       [百度云下载链接](https://pan.baidu.com/s/1IzNqzwRLzwLoo-XliSHAEA)  密码:qnr6
+- 流畅的 Python       [百度云下载链接](https://pan.baidu.com/s/11Mm9WRv9Ud7DVtKVXnNw_w)  密码:1s6a
+-        [百度云下载链接]()
 
 # 16、管理
 
