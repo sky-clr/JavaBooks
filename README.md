@@ -324,84 +324,83 @@
 
 ### C
 
-- C Primer Plus       [百度云下载链接](https://pan.baidu.com/s/1_VZ3ru4M6WWv4FhH_zP-ig)  密码:slkq
-- C 和指针       [百度云下载链接](https://pan.baidu.com/s/1OxEV43huVaa8Eus0kXcfkA)  密码:2r6g
-- C 陷阱与缺陷       [百度云下载链接](https://pan.baidu.com/s/1gRN92VZp3iVo3gdbgpuB0w)  密码:01yi
-- C 专家编程       [百度云下载链接](https://pan.baidu.com/s/17f-GuxrmqwCyDEjjoWMJDA)  密码:4yx4
-- 深度探索 C 对象模型       [百度云下载链接](https://pan.baidu.com/s/1yp1d4dOA94_p6UWUAEQ-pg)  密码:ru37
-- 数据结构与算法分析——C 语言描述       [百度云下载链接](https://pan.baidu.com/s/1D-WnF9ZZ_UZplh7Yrs-COw)  密码:wb82
+- C Primer Plus       [百度云下载链接](https://pan.baidu.com/s/1EgDS--OsTBH-w4FYREx7Ng)  密码:7qru
+- C 和指针       [百度云下载链接](https://pan.baidu.com/s/1txytF0YBRgCIcqNRGvcDpA)  密码:oaum
+- C 陷阱与缺陷       [百度云下载链接](https://pan.baidu.com/s/1KwP4A_fMCPbJP9zpUKdSyA)  密码:diao
+- C 专家编程       [百度云下载链接](https://pan.baidu.com/s/1XD_Bi0nH7nFF-g_7SGGvcg)  密码:ipzt
+- 深度探索 C 对象模型       [百度云下载链接](https://pan.baidu.com/s/1JXIxf_fA0M6rYm3F7Coccg)  密码:z6vp
+- 数据结构与算法分析——C 语言描述       [百度云下载链接](https://pan.baidu.com/s/1rCZM79EsH7HJ4YO6CPa3lA)  密码:k7kj
 
 
 ### C++
 
 
-- 大规模 C++程序设计       [百度云下载链接](https://pan.baidu.com/s/1BuGAUlI6zpalbj6R6zxlQA)  密码:9dre
-- 牛客校招面试题（附答案与解析）c++篇       [百度云下载链接](https://pan.baidu.com/s/1KLI8W42eEArdOSFOULH-hw)  密码:56dk
-- 深度探索C++对象模型       [百度云下载链接](https://pan.baidu.com/s/1HL6GcvHQ6k3iLLi1JLvToQ)  密码:kzva
-- 深入理解c11新特性解析与应用       [百度云下载链接](https://pan.baidu.com/s/1nCXXWDIvB2kfTfT79UDW0A)  密码:qb5e
-- C++ 面试题库       [百度云下载链接](https://pan.baidu.com/s/1-IxamQi4WsoVeNyjeK7FAQ)  密码:ks0a
-- C++ Primer       [百度云下载链接](https://pan.baidu.com/s/1SiHPXOkzc3PkqsCG5yYU8w)  密码:98va
-- C++标准程序库—自修教程与参考手册       [百度云下载链接](https://pan.baidu.com/s/1MHMcyFFtUc99eZSgs8Pi8Q)  密码:lkaq
-- C++性能优化指南       [百度云下载链接](https://pan.baidu.com/s/1gMyirct5Kx8LwH8y3KSHxg)  密码:tmr7
-- C++语言的设计和演化       [百度云下载链接](https://pan.baidu.com/s/1x49eLzYkaaVknqGL4F1GWg)  密码:2yk7
-- Effective.Modern.C++        [百度云下载链接](https://pan.baidu.com/s/1ZG6_R2ocbSYz4LV-iBIvwA)  密码:mysz
-- Effective+STL中文版：50条有效使用STL的经验       [百度云下载链接](https://pan.baidu.com/s/1Nb-Yr7KOQ_Yvr9oP7yCGMA)  密码:yzgv
-- EffectiveC++中文版（第三版）       [百度云下载链接](https://pan.baidu.com/s/115QGr1NEEGHvwVH7UGO-tA)  密码:996k
-- More Effective C++中文       [百度云下载链接](https://pan.baidu.com/s/1b7btkouM-N8y99F2TwGZBw)  密码:405u
-- STL源码剖析--侯捷       [百度云下载链接](https://pan.baidu.com/s/15ofHnLeQ6MIXeX-0Gl3J9g)  密码:ot8h
+- 牛客校招面试题（附答案与解析）c++篇       [百度云下载链接](https://pan.baidu.com/s/18B9DHuYZPgj2mgLb4ETqKA)  密码:h7im
+- C++ 面试题库       [百度云下载链接](https://pan.baidu.com/s/1fBLDu3sOw3qaQuWMblac4w)  密码:qhrg
+- 大规模 C++程序设计       [百度云下载链接](https://pan.baidu.com/s/11Y6LcTQPCz8rmfaD0IJTlA)  密码:llij
+- 深度探索C++对象模型       [百度云下载链接](https://pan.baidu.com/s/1E_dsWgHVov8MGhcuyri96g)  密码:l9l3
+- 深入理解c11新特性解析与应用       [百度云下载链接](https://pan.baidu.com/s/1Jb-b_NS2C2PepVKothvdAA)  密码:g7st
+- C++ Primer       [百度云下载链接](https://pan.baidu.com/s/1rnQj_3DXjKcFkVn5JUt2Uw)  密码:ehzj
+- C++标准程序库—自修教程与参考手册       [百度云下载链接](https://pan.baidu.com/s/14ewwaJogM_5Zr_7wHVmxlg)  密码:bdv2
+- C++性能优化指南       [百度云下载链接](https://pan.baidu.com/s/1Ipx5w6OOprvYcFvZha3FyA)  密码:h94d
+- C++语言的设计和演化       [百度云下载链接](https://pan.baidu.com/s/1_iiwDOseqGSUVIu0x_GDOA)  密码:3yx1
+- Effective.Modern.C++        [百度云下载链接](https://pan.baidu.com/s/1WMNsfyZrzweKYEDIX1iw2A)  密码:58u1
+- Effective+STL中文版：50条有效使用STL的经验       [百度云下载链接](https://pan.baidu.com/s/1Ear2KYtUNfKDxAgCFdhzWg)  密码:em3y
+- EffectiveC++中文版（第三版）       [百度云下载链接](https://pan.baidu.com/s/1Zn7taaphLo7R-o4vg-oOnw)  密码:cu9o
+- More Effective C++中文       [百度云下载链接](https://pan.baidu.com/s/1Ux9NwuTTfFGyJuA3qBBYQg)  密码:xlvw
+- STL源码剖析--侯捷       [百度云下载链接](https://pan.baidu.com/s/1tdE80_dFPIlddQnQ3rXnSg)  密码:pc9e
 
 ### JavaScript
 
-- JavaScript王者归来       [百度云下载链接](https://pan.baidu.com/s/19btTsy7tEq4I57BsR1Vskg)  密码:k8l9
-- 超实用的JavaScript代码段       [百度云下载链接](https://pan.baidu.com/s/1kNWiSPLO-i9QAjoVi-QSWQ)  密码:n70r
-- 单页Web应用  JavaScript从前端到后端       [百度云下载链接](https://pan.baidu.com/s/1iF7HTO16sJnC6GpUd1VLAQ)  密码:bqjg
-- 你不知道的JavaScript       [百度云下载链接](https://pan.baidu.com/s/1pPcm8k7ug8cho9TBJe0YvQ)  密码:k4oq
-- 实战ES2015深入JavaScript现代应用开发       [百度云下载链接](https://pan.baidu.com/s/1oyc8-GS11GVNyKS5jZrvKA)  密码:mcqj
-- 数据结构与算法JavaScript描述       [百度云下载链接](https://pan.baidu.com/s/1Fwlq4wqsRisEI3anE-5yQA)  密码:zhrk
-- ES6深入浅出       [百度云下载链接](https://pan.baidu.com/s/16_Aw4C6ukirHA1j2l73lFw)  密码:2fc7
-- JavaScript DOM编程艺术       [百度云下载链接](https://pan.baidu.com/s/1Qo-bAIgMlkgXy_Jzk6HkKg)  密码:bjdn
-- JavaScript.DOM高级程序设计       [百度云下载链接](https://pan.baidu.com/s/1awDGCV0q_hok3xda1Etcnw)  密码:h4ql
-- JavaScript宝典(第6版)       [百度云下载链接](https://pan.baidu.com/s/1Xehl31m79-S8eDrxofBrpQ)  密码:voxy
-- JavaScript编程全解       [百度云下载链接](https://pan.baidu.com/s/1ZoNGRWTJbBlpXHsSRbPvTg)  密码:0o3b
-- JavaScript从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1XwS9vGBm_GfYm18cy8HP9w)  密码:5g1l
-- JavaScript高级程序设计(第2版)       [百度云下载链接](https://pan.baidu.com/s/1BwsQmQ3eBWMXsGSxim-4Gw)  密码:z2nj
-- JavaScript捷径教程       [百度云下载链接](https://pan.baidu.com/s/17QdQ7BeVcVnnx0_MhJEFPw)  密码:bh9a
-- JavaScript框架高级编程       [百度云下载链接](https://pan.baidu.com/s/1Xq4okvBW4n-0uz_sLby2kQ)  密码:1yxr
-- Javascript框架设计       [百度云下载链接](https://pan.baidu.com/s/11iURNfstG7x0t_-L8NoaIQ)  密码:bq9j
-- JavaScript面向对象编程指南       [百度云下载链接](https://pan.baidu.com/s/1BNh6tdFJtwaVg_oFiyiq7w)  密码:wv2v
-- JavaScript启示录       [百度云下载链接](https://pan.baidu.com/s/1Il5T_kamqY4WNAK7MmWGEw)  密码:udkt
-- JavaScript权威指南第六版       [百度云下载链接](https://pan.baidu.com/s/13-zI-Ps0dbMca1Pr64vn7Q)  密码:q9t5
-- JavaScript入门经典(第3版)       [百度云下载链接](https://pan.baidu.com/s/1pdGcTvma0nKXdZUzLAKy4g)  密码:ayse
-- JavaScript设计模式-张容铭扫描版       [百度云下载链接](https://pan.baidu.com/s/1niaTxswOxSqWqp3olQVpLg)  密码:bkas
-- JAVASCRIPT设计模式       [百度云下载链接](https://pan.baidu.com/s/1TMlKUugJ2LRtktDOvOe8OA)  密码:bq02
-- ppk谈JavaScript       [百度云下载链接](https://pan.baidu.com/s/1LFk7_qpl107ADtwZGsSuhg)  密码:5z7x
-- JavaScript语言精髓与编程实践       [百度云下载链接](https://pan.baidu.com/s/1huGUcE4LzglNlneG9FbM0A)  密码:sdut
-- JavaScript语言精粹       [百度云下载链接](https://pan.baidu.com/s/121ZQXU2eenygFfEpYDLkSw)  密码:sz8y
-- JavaScript 异步编程       [百度云下载链接](https://pan.baidu.com/s/1G3HGlkWrNnclvGvwQ4_c8A)  密码:nfof
-- JavaScript 开发技术大全       [百度云下载链接](https://pan.baidu.com/s/1PDBXQRFsRTYs3gpo1oEIGw)  密码:81bv
+- JavaScript王者归来       [百度云下载链接](https://pan.baidu.com/s/1tr2WtDy55UkOSNzPymh2hA)  密码:xz1j
+- 超实用的JavaScript代码段       [百度云下载链接](https://pan.baidu.com/s/1AdtTu9gDB3wdtbU3paA13Q)  密码:s5bz
+- 单页Web应用  JavaScript从前端到后端       [百度云下载链接](https://pan.baidu.com/s/18bxyJDR1Yfm1ipXt1Z7Nzg)  密码:dm3c
+- 你不知道的JavaScript       [百度云下载链接](https://pan.baidu.com/s/1-zbKjTB7rRxMiCvTm8To2A)  密码:z7il
+- 实战ES2015深入JavaScript现代应用开发       [百度云下载链接](https://pan.baidu.com/s/1hrdZfo-YDXd06qFekDqbuA)  密码:aigg
+- 数据结构与算法JavaScript描述       [百度云下载链接](https://pan.baidu.com/s/1ct9wLoC9WmOXKw5OifhCyw)  密码:dt4g
+- ES6深入浅出       [百度云下载链接](https://pan.baidu.com/s/1Fav7yykWsLjZyoV1Oy7pkg)  密码:06ic
+- JavaScript DOM编程艺术       [百度云下载链接](https://pan.baidu.com/s/1CJ-tW731ha9DMZZKip6Vww)  密码:9ke7
+- JavaScript.DOM高级程序设计       [百度云下载链接](https://pan.baidu.com/s/1yOkOrksr4w-oxvdPv456AQ)  密码:ug61
+- JavaScript宝典(第6版)       [百度云下载链接](https://pan.baidu.com/s/1cPJlU-mCQ_ISHvR8cJ8MXA)  密码:lotv
+- JavaScript编程全解       [百度云下载链接](https://pan.baidu.com/s/1T_5XFNm8AU6q8DNqpa4_Ig)  密码:39ee
+- JavaScript从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1yRjWOBtf_aBC4CBNC1tJPw)  密码:awbd
+- JavaScript高级程序设计(第2版)       [百度云下载链接](https://pan.baidu.com/s/1OtRW7gwV-mA0mOft9B6gyQ)  密码:pvkw
+- JavaScript捷径教程       [百度云下载链接](https://pan.baidu.com/s/1Pl8VFTiro8r9onr713aAoA)  密码:yzs8
+- JavaScript框架高级编程       [百度云下载链接](https://pan.baidu.com/s/1FHcmx55ViegMvSyRr8MGXA)  密码:glh3
+- Javascript框架设计       [百度云下载链接](https://pan.baidu.com/s/1EDgb1Zy04J-1EyG0dYhE_w)  密码:rk3a
+- JavaScript面向对象编程指南       [百度云下载链接](https://pan.baidu.com/s/1dKe4cZOfRbKJ7wScsTNOEQ)  密码:g63p
+- JavaScript启示录       [百度云下载链接](https://pan.baidu.com/s/1IO6t3bAFROetqFLo9cGRDA)  密码:20r5
+- JavaScript权威指南第六版       [百度云下载链接](https://pan.baidu.com/s/1CYRAHyAeeHV_TWisCXjl2Q)  密码:3j90
+- JavaScript入门经典(第3版)       [百度云下载链接](https://pan.baidu.com/s/1n87Y7I2jZTOnemU5Rx2ugQ)  密码:g9xm
+- JAVASCRIPT设计模式       [百度云下载链接](https://pan.baidu.com/s/1l03QQ7Cdlqk_xLxU-HKmRA)  密码:7xvl
+- ppk谈JavaScript       [百度云下载链接](https://pan.baidu.com/s/1ICbv98caRDhwrZyIxHsHOA)  密码:99q9
+- JavaScript语言精髓与编程实践       [百度云下载链接](https://pan.baidu.com/s/1inQkDb-56BvKtGNqlfUtFg)  密码:omr4
+- JavaScript语言精粹       [百度云下载链接](https://pan.baidu.com/s/1leL0I7j0PCU02LJnWLImDw)  密码:h347
+- JavaScript 异步编程       [百度云下载链接](https://pan.baidu.com/s/1fKQnAtwGP8UryU2iBJtkoQ)  密码:xeab
+- JavaScript 开发技术大全       [百度云下载链接](https://pan.baidu.com/s/1EiJw6t5JzyGEMglYlCn_pw)  密码:5tdd
 
 
 ### Python
 
-- Python+Cookbook第三版中文v2.0.0       [百度云下载链接](https://pan.baidu.com/s/1R3O1AbF8KQUlku2vb7WZeg)  密码:gqpp
-- 编程小白的第一本Python入门书       [百度云下载链接](https://pan.baidu.com/s/1I2gfyS24o7fFktpN_yz3TA)  密码:6wrg
-- 可爱的Python_中文版       [百度云下载链接](https://pan.baidu.com/s/1pvcV8k0qMP7e1pE350yRKw)  密码:5rqw
-- 利用Python进行数据分析       [百度云下载链接](https://pan.baidu.com/s/1VpaRLMyycmrLnUn2rFmoQQ)  密码:t8li
-- 深入浅出：使用Python编程       [百度云下载链接](https://pan.baidu.com/s/18srHYbg0xLMj6QkE5kR1pA)  密码:21x8
-- 用Python进行自然语言处理       [百度云下载链接](https://pan.baidu.com/s/14QgYi3xIUYHx5cXbKGxC9w)  密码:j6e7
-- Python高性能编程       [百度云下载链接](https://pan.baidu.com/s/1FZFCqo_NtOfaOnWeAHBA4A)  密码:r5co
-- Python编程：从入门到实践       [百度云下载链接](https://pan.baidu.com/s/1OA9-PZy9fT4Bquoxlz_Iag)  密码:o9gd
-- Python+Web开发：测试驱动方法       [百度云下载链接](https://pan.baidu.com/s/1eU_EgEDE008UOmZ5ylkC4Q)  密码:773h
-- python-basic       [百度云下载链接](https://pan.baidu.com/s/1mxAANI2n3bFbSuRx32Dvww)  密码:2c75
-- byte-of-python-chinese-edition       [百度云下载链接](https://pan.baidu.com/s/12o1_iHlR5VkAKe_5jwuh3g)  密码:zay4
-- Python基础教程(第2版)       [百度云下载链接](https://pan.baidu.com/s/1k5XzjyslOGlFLXNDLW-uNA)  密码:ctio
-- Python进阶-v1.1       [百度云下载链接](https://pan.baidu.com/s/1KGUVTVYlIkLy65Ui0YQ0Ew)  密码:n29z
-- Python核心编程(第二版)       [百度云下载链接](https://pan.baidu.com/s/1JxdRR1uBtMWcwwaSvWL3qg)  密码:pvtf
-- Python最佳实践指南（中）       [百度云下载链接](https://pan.baidu.com/s/11o9jE9Jq27KFkY48uTxQwg)  密码:zaxx
-- PYTHON自然语言处理【中文版】       [百度云下载链接](https://pan.baidu.com/s/17qV_RcUmIu4C3ArNWKrYtA)  密码:7bf7
-- Python源码剖析（陈儒-2008-电子工业出版）       [百度云下载链接](https://pan.baidu.com/s/1Z56ABQBpVnwpt5izYY-VEA)  密码:kph9
-- Python网络数据采集       [百度云下载链接](https://pan.baidu.com/s/1IzNqzwRLzwLoo-XliSHAEA)  密码:qnr6
-- 流畅的 Python       [百度云下载链接](https://pan.baidu.com/s/11Mm9WRv9Ud7DVtKVXnNw_w)  密码:1s6a
+- Python+Cookbook第三版中文v2.0.0       [百度云下载链接](https://pan.baidu.com/s/1Ennpp7F3gg3pRTWYGuR03w)  密码:y68v
+- 编程小白的第一本Python入门书       [百度云下载链接](https://pan.baidu.com/s/1SVdn7RLV356M31hzRSsZ8A)  密码:n8d8
+- 可爱的Python_中文版       [百度云下载链接](https://pan.baidu.com/s/1zQ1XQT8GBHE1WFFSs9AD6A)  密码:o6cf
+- 利用Python进行数据分析       [百度云下载链接](https://pan.baidu.com/s/11COVDXzwN6V8gA_fYSyk-A)  密码:08zf
+- 深入浅出：使用Python编程       [百度云下载链接](https://pan.baidu.com/s/1A8yRf3YnvQDtqHVgScxEIA)  密码:vyya
+- 用Python进行自然语言处理       [百度云下载链接](https://pan.baidu.com/s/1L2tLjc8YVCPB7z25QJ5fMw)  密码:0sx5
+- Python高性能编程       [百度云下载链接](https://pan.baidu.com/s/1wDvUIpojRXcAnOmqXqS9ng)  密码:j4js
+- Python编程：从入门到实践       [百度云下载链接](https://pan.baidu.com/s/15tazEGOw0LFMBadAwHxAkA)  密码:rchj
+- Python+Web开发：测试驱动方法       [百度云下载链接](https://pan.baidu.com/s/1hsvFK6A2KyMv-kl8vOkJgQ)  密码:pfmk
+- python-basic       [百度云下载链接](https://pan.baidu.com/s/1HnvvPVhFTM_pOvAPXKLCgQ)  密码:te3f
+- byte-of-python-chinese-edition       [百度云下载链接](https://pan.baidu.com/s/1U3jYMZWjrv46Ynad6rDKuw)  密码:uzip
+- Python基础教程(第2版)       [百度云下载链接](https://pan.baidu.com/s/1PAfKDo81oEkghxX-3rpVBw)  密码:r8qx
+- Python进阶-v1.1       [百度云下载链接](https://pan.baidu.com/s/19DjzEHuTk9RNKLRL8BoOcw)  密码:x6tf
+- Python核心编程(第二版)       [百度云下载链接](https://pan.baidu.com/s/1ifm0-jQh2373ew8tqgdjjQ)  密码:4nkr
+- Python最佳实践指南（中）       [百度云下载链接](https://pan.baidu.com/s/1PGvnGLZEGFbgBd52BakMYg)  密码:aldu
+- PYTHON自然语言处理【中文版】       [百度云下载链接](https://pan.baidu.com/s/1HCfXl14MhTAOZVN1dxK3jw)  密码:3tgu
+- Python源码剖析（陈儒-2008-电子工业出版）       [百度云下载链接](https://pan.baidu.com/s/1rkKpvgtJMjTbbTiIQX3hGw)  密码:s81x
+- Python网络数据采集       [百度云下载链接](https://pan.baidu.com/s/1Sms6-YXtRxawftMB-x5grA)  密码:7x8s
+- 流畅的 Python       [百度云下载链接](https://pan.baidu.com/s/1_HZqWh3niD0HodS7xw1imA)  密码:ssjd
 
 ### go
 
