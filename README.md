@@ -309,12 +309,12 @@
 
 # 架构
 
-- 大型网站技术架构 核心原理与案例分析       [百度云下载链接](https://pan.baidu.com/s/1DlpHzgROfj7YMK3xXZiGyA)  密码:kwbc
-- 高性能高并发服务器架构       [百度云下载链接](https://pan.baidu.com/s/1irzqPnGy9krnUqx5kIGIyg)  密码:7hi1
-- 架构风格与基于网络的软件架构设计       [百度云下载链接](https://pan.baidu.com/s/1wb9gK1IQXtAsiW3gST24Eg)  密码:r4c1
-- 架构之美       [百度云下载链接](https://pan.baidu.com/s/1u6JbAwcuzSevPXaynrkMDg)  密码:rdh3
-- 大型网站系统与 Java 中间件实践       [百度云下载链接](https://pan.baidu.com/s/1ZudKfAxnQ0AdkFJkRc2_VA)  密码:i0ll
-- 亿级流量网站架构核心技术       [百度云下载链接](https://pan.baidu.com/s/1C5bsYpE0T2WuYwSRYiEacw)  密码:z0m5
+- 大型网站技术架构 核心原理与案例分析       [百度云下载链接](https://pan.baidu.com/s/1BG7ZwCsRWyE2itSYUKcDRA)  密码:r5k1
+- 高性能高并发服务器架构       [百度云下载链接](https://pan.baidu.com/s/1sMzobJctghdh9Q45GcnsWA)  密码:ofa1
+- 架构风格与基于网络的软件架构设计       [百度云下载链接](https://pan.baidu.com/s/1ZIlvrcU6SOAjb_2O60lK3g)  密码:a0lf
+- 架构之美       [百度云下载链接](https://pan.baidu.com/s/1R8sBPDnjEOWxst-Spy5FmQ)  密码:lfxq
+- 大型网站系统与 Java 中间件实践       [百度云下载链接](https://pan.baidu.com/s/1c7weFVZi1OIAhjb17GEZyw)  密码:tboh
+- 亿级流量网站架构核心技术       [百度云下载链接](https://pan.baidu.com/s/15LQ2KMvZ_8tD59WX748zug)  密码:fwer
 
 
 # 扩展
@@ -468,41 +468,49 @@
 
 # 管理
 
-- 人月神话       [百度云下载链接](https://pan.baidu.com/s/1JbVBb20rpSZyrsF1RRxy3g)  密码:r5gj
-- 微管理：给你一个技术团队，你该怎么管（全彩）       [百度云下载链接](https://pan.baidu.com/s/1X8gn1szeqpXNHb4QTOd5kg)  密码:tfdx
+- 人月神话       [百度云下载链接](https://pan.baidu.com/s/10SwBDRr_ZMZN-q9N_hTcFw)  密码:ctf3
+- 微管理：给你一个技术团队，你该怎么管（全彩）       [百度云下载链接](https://pan.baidu.com/s/1QurLZsDK8SPHvWCGjgt0sA)  密码:u6ml
 
 # 加餐
 
-- 《阿里技术参考图册》（算法篇）       [百度云下载链接](https://pan.baidu.com/s/1twoN0-VWUGqsYXjhVgGrWQ)  密码:vmmc
-- 《阿里技术参考图册》（研发篇）       [百度云下载链接](https://pan.baidu.com/s/1Q07ca5XMZ4dODAV7fxaapg)  密码:5dnq
-- 沉默的大多数       [百度云下载链接](https://pan.baidu.com/s/1qTQ3IpBYi6CJ2Z-IIzZrdQ)  密码:c6qh
-- 程序员必知的硬核知识大全       [百度云下载链接](https://pan.baidu.com/s/1-WZnZVqvDj0ssI66575fbQ)  密码:apmy
-- 程序员的职业素养       [百度云下载链接](https://pan.baidu.com/s/1MdCq4MOYR39tJsHQX0jhwA)  密码:g5p8
-- 程序员内功修炼-V2.0       [百度云下载链接](https://pan.baidu.com/s/1cKgWCMugTBx1TDZAXnuhSw)  密码:o22q
-- 如何变得有思想  阮一峰博客文集       [百度云下载链接](https://pan.baidu.com/s/1Q0geBWqNkb58p6hid-4D9w)  密码:eojl
-- 设计原本（中文版）       [百度云下载链接](https://pan.baidu.com/s/1ygcCmrNQ6kSiVZxfCf6djQ)  密码:bd72
-- 深入理解Nginx：模块开发与架构解析-陶辉       [百度云下载链接](https://pan.baidu.com/s/1PFx6Lv-0wHdI43npv-wmeQ)  密码:0s93
-- 深入剖析Tomcat-高清-书签       [百度云下载链接](https://pan.baidu.com/s/1zgrdcyDZoPq0l5O-_PNUBQ)  密码:pd9u
-- 数学之美       [百度云下载链接](https://pan.baidu.com/s/1dxg8BMNLxj4frIa6vUnAFQ)  密码:wtpp
-- 淘宝技术这十年       [百度云下载链接](https://pan.baidu.com/s/10GuyMPiPEJ7vtPXoeCABpw)  密码:2wu5
-- 香帅北大金融学课 线下大课       [百度云下载链接](https://pan.baidu.com/s/1HSPZz-Yq6etV0owYoBUBZg)  密码:kj74
-- 学习学习再学习       [百度云下载链接](https://pan.baidu.com/s/1VzleTEJct_5YKmW0OClQgQ)  密码:r6kn
-- 学习正则表达式       [百度云下载链接](https://pan.baidu.com/s/1T5rCFB07PjeMvoOwWc8DbA)  密码:iz6z
-- 卓有成效的程序员       [百度云下载链接](https://pan.baidu.com/s/1f3oy06-lH_43_zrAuPeS1A)  密码:b980
-- 自己动手写网络爬虫       [百度云下载链接](https://pan.baidu.com/s/12jFBH0iu8q-BBoZpenpWXg)  密码:ezf5
-- Ch3-Ch5-超人气博客是怎样炼成的       [百度云下载链接](https://pan.baidu.com/s/1OWqFVDA8XbCQe4T3Y2Q67Q)  密码:cmm3
-- how-to-be-a-programmer-cn       [百度云下载链接](https://pan.baidu.com/s/1luLLrLWU2QFcvnrwkjTxQw)  密码:7k0g
-- WEB服务_原理与技术       [百度云下载链接](https://pan.baidu.com/s/1tSwuEF4zLR_nhLGa0XXXtQ)  密码:ndf4
-- 由浅入深学Java—基础、进阶与必做260题       [百度云下载链接](https://pan.baidu.com/s/1EMsHdo9nXIdk3rvI4w1BvA)  密码:tn78
-- Java与模式       [百度云下载链接](https://pan.baidu.com/s/146S2h1wys1mIDsqPaVGaMw)  密码:f2va
-- Java游戏高级编程       [百度云下载链接](https://pan.baidu.com/s/1vRnlOXQyzWVzAXqK_r1iww)  密码:ghrw
-- Java应用架构设计 模块化模式与OSGi       [百度云下载链接](https://pan.baidu.com/s/1dT4nc-yC8q0HsBdDkKsJiA)  密码:9cdh
-- Java典型模块与项目实战大全       [百度云下载链接](https://pan.baidu.com/s/1dd30PJGZIQMZ224JzeP-iQ)  密码:9zrc
+- 《阿里技术参考图册》（算法篇）       [百度云下载链接](https://pan.baidu.com/s/1DdT84xRPa4SHmH2SQoRZ6w)  密码:4eev
+- 《阿里技术参考图册》（研发篇）       [百度云下载链接](https://pan.baidu.com/s/1xLJ2ArI93gCRa6b0cPBkrQ)  密码:hq1u
+
+- 程序员必知的硬核知识大全       [百度云下载链接](https://pan.baidu.com/s/1yCCvpQONyrwoSGsDlr1FWA)  密码:dp1p
+
+- how-to-be-a-programmer-cn       [百度云下载链接](https://pan.baidu.com/s/1iXTKzEH9B2JXHgWpC30cvA)  密码:kar9
+- 卓有成效的程序员       [百度云下载链接](https://pan.baidu.com/s/1m2yIHnILjpfW7Rkgm1wm_A)  密码:6511
+- 程序员的职业素养       [百度云下载链接](https://pan.baidu.com/s/1y2j39EIyWZrDxkFRWfUkWA)  密码:n2zg
+- 程序员内功修炼-V2.0       [百度云下载链接](https://pan.baidu.com/s/1GRaSU7qUrG7ZUoTzA1UJWA)  密码:xmg5
+
+- 设计原本（中文版）       [百度云下载链接](https://pan.baidu.com/s/1ZDm2FHYxroz1Z92E7Dkb8g)  密码:zaxe
+
+- 数学之美       [百度云下载链接](https://pan.baidu.com/s/1S0Q4mNthoQHIrEIqsHkGgQ)  密码:mbmh
+- 淘宝技术这十年       [百度云下载链接](https://pan.baidu.com/s/1_eJr9Hpcyf40FYDsnw2qKw)  密码:b4u6
+
+- 如何变得有思想  阮一峰博客文集       [百度云下载链接](https://pan.baidu.com/s/1fs-M7Q7zqRFCL7J_Tp7o9w)  密码:7yyh
+- 沉默的大多数       [百度云下载链接](https://pan.baidu.com/s/1TIy9PV58RAztfgqjYywvqw)  密码:6vcc
+- 香帅北大金融学课 线下大课       [百度云下载链接](https://pan.baidu.com/s/1Ob-nHo0-lLXcV0tzRXLXUg)  密码:cfcm
+- 学习学习再学习       [百度云下载链接](https://pan.baidu.com/s/1QbPJcnx_Yaceo__D_lRNLw)  密码:vup6
+
+- 学习正则表达式       [百度云下载链接](https://pan.baidu.com/s/1jqd1HBM8yTIZfciGJDSlSQ)  密码:icft
+
+- 自己动手写网络爬虫       [百度云下载链接](https://pan.baidu.com/s/17A7RAvY329DbrSon5lzFvw)  密码:cz9n
+- Ch3-Ch5-超人气博客是怎样炼成的       [百度云下载链接](https://pan.baidu.com/s/1UXArzgb_uSmKpGSkn3Kimg)  密码:34v0
+
+- 深入理解Nginx：模块开发与架构解析-陶辉       [百度云下载链接](https://pan.baidu.com/s/17PZYt-WJcfD5M_C0nQpcnA)  密码:k9zc
+- 深入剖析Tomcat-高清-书签       [百度云下载链接](https://pan.baidu.com/s/1xLGDAtoWptcj7Fv4NhrPyw)  密码:o77f
+- WEB服务_原理与技术       [百度云下载链接](https://pan.baidu.com/s/163eC6VcODfkkiedo6nPOMw)  密码:gvoc
+- 由浅入深学Java—基础、进阶与必做260题       [百度云下载链接](https://pan.baidu.com/s/1fzjvlQB9YjsqqV4hf4XB_g)  密码:r1tk
+- Java与模式       [百度云下载链接](https://pan.baidu.com/s/10QfuW52AXhSLzzMBgzcbKQ)  密码:56lw
+- Java游戏高级编程       [百度云下载链接](https://pan.baidu.com/s/1BviAAMcmeTFtjGfGzETxLQ)  密码:mp4i
+- Java应用架构设计 模块化模式与OSGi       [百度云下载链接](https://pan.baidu.com/s/1Yz94iRnIXR2iIs1BG6NjIQ)  密码:vgm6
+- Java典型模块与项目实战大全       [百度云下载链接](https://pan.baidu.com/s/1yxw9e_e3UHDMcHpHu17jjw)  密码:svgn
 
 # 活着
 
-- 程序员健康指南       [百度云下载链接](https://pan.baidu.com/s/1QmmTDSWUXab_WTDpgF8DDw)  密码:bzx0
-- 颈椎康复指南       [百度云下载链接](https://pan.baidu.com/s/1vx05aJVW_Kr7BJGwCS0kmw)  密码:o8hc
+- 程序员健康指南       [百度云下载链接](https://pan.baidu.com/s/1EssOkFfZV93QIB9IAFmjmw)  密码:pl0i
+- 颈椎康复指南       [百度云下载链接](https://pan.baidu.com/s/1AdqcGTLOUkQxrFFURNYq7A)  密码:ouhh
 
 
 
