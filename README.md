@@ -178,22 +178,21 @@
 
 # 性能优化
 
-- 编写高质量代码：改善 Java 程序的 151 个建议       [百度云下载链接](https://pan.baidu.com/s/14dV9tkqpN9C8DyAT71RZnA)  密码:55he
-- 代码整洁之道       [百度云下载链接](https://pan.baidu.com/s/1oUvpAzgc3AUNaZ_j9QfWIA)  密码:q0ue
-- 代码之美精选版       [百度云下载链接](https://pan.baidu.com/s/132oIMvrl9R3Klkt0HvILYw)  密码:dnjq
-- 码出高效：Java 开发手册       [百度云下载链接](https://pan.baidu.com/s/1YowriQK_29XXYLUcJWcOBg)  密码:y44i
-- 嵩山版阿里巴巴 Java 开发手册       [百度云下载链接](https://pan.baidu.com/s/1w2zqCZwtfRymhNgyyhnS0g)  密码:imx2
-- 重构       [百度云下载链接](https://pan.baidu.com/s/1FtuASLpEnVUjC35b7UJw3A)  密码:k573
-- Effective Java       [百度云下载链接](https://pan.baidu.com/s/1gVjeh1p-LSgSgcDZM_Is3Q)  密码:cvho
-- Java 程序性能优化       [百度云下载链接](https://pan.baidu.com/s/1CSWmfOXn287U7l7IOhPeIA)  密码:u2lw
-- Java 程序员修炼之道       [百度云下载链接](https://pan.baidu.com/s/1XuhahV5foh43Jtojz7-pgA)  密码:kdpv
-- Java 工程师修炼之道       [百度云下载链接](https://pan.baidu.com/s/1FI3qObpZj0ZrvjFhKu6elw)  密码:howk
-- Java 性能权威指南       [百度云下载链接](https://pan.baidu.com/s/1n14j_9yEz15V94zfzIP_QQ)  密码:8mhp
-- JVM 性能优化       [百度云下载链接](https://pan.baidu.com/s/1awOGNKhbLxK4RHBlKRjKAw)  密码:ttsw
-- MySQL 性能优化       [百度云下载链接](https://pan.baidu.com/s/1Olm7bcTlBYsAdHznCT2TSg)  密码:iyt4
-- Tomcat 性能优化       [百度云下载链接](https://pan.baidu.com/s/1IMdRgWWHMcZna81Gy7e1mw)  密码:o9bh
-- Oracle 性能优化求生指南       [百度云下载链接](https://pan.baidu.com/s/1shhTtE4E3hIQuED3BHZY6A)  密码:twrk
-- MySQL 性能优化的 21 个最佳实践       [百度云下载链接](https://pan.baidu.com/s/1vcwS1iskKD0TxO9wmOJ30Q)  密码:qb4l
+- 编写高质量代码：改善 Java 程序的 151 个建议       [百度云下载链接](https://pan.baidu.com/s/1ZoRs8Htl2Vzeixb9g7Uuog)  密码:hlnn
+- 代码整洁之道       [百度云下载链接](https://pan.baidu.com/s/14eaBwPRlMB2mha2VOnK0AA)  密码:ghyd
+- 代码之美精选版       [百度云下载链接](https://pan.baidu.com/s/1Q0yHUp4wPSyNp15tprytkQ)  密码:zlxp
+- 码出高效：Java 开发手册       [百度云下载链接](https://pan.baidu.com/s/1UbWHgkRaFNdWagb8Yla0zg)  密码:uiok
+- 嵩山版阿里巴巴 Java 开发手册       [百度云下载链接](https://pan.baidu.com/s/1iBVFWUPuJNFEBfG8cmd-aA)  密码:pplh
+- 重构       [百度云下载链接](https://pan.baidu.com/s/10pbMKNJ25yqmh_9gHUsdhQ)  密码:ksqr
+- Effective Java       [百度云下载链接](https://pan.baidu.com/s/1ZtFezy_FivGlR2qdk2GEOg)  密码:y6ur
+- Java 程序性能优化       [百度云下载链接](https://pan.baidu.com/s/1fMrfm8Ky-MpQnYpKnN4X5g)  密码:b8w7
+- Java 程序员修炼之道       [百度云下载链接](https://pan.baidu.com/s/1GFXHN4mewIEoLOTd-DnwUg)  密码:wvx1
+- Java 工程师修炼之道       [百度云下载链接](https://pan.baidu.com/s/1OqR5u8mUvPP7xtnPFCxtag)  密码:gmlu
+- Java 性能权威指南       [百度云下载链接](https://pan.baidu.com/s/1BY9TXv2yxaEmf_COP0ZqrA)  密码:0av5
+- JVM 性能优化       [百度云下载链接](https://pan.baidu.com/s/1dhlXwXEBCAebBCICT_BawA)  密码:enbu
+- Tomcat 性能优化       [百度云下载链接](https://pan.baidu.com/s/1qOg3QaIKHMc7TXguukadUA)  密码:388n
+- Oracle 性能优化求生指南       [百度云下载链接](https://pan.baidu.com/s/1GRFYQz8L_EttDpI8glXatA)  密码:bcgd
+- MySQL 性能优化的 21 个最佳实践       [百度云下载链接](https://pan.baidu.com/s/1tZXhFVRvjh5Ph0aBsXYASA)  密码:ex1h
 
 # 设计模式
 
