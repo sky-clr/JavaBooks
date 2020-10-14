@@ -100,9 +100,9 @@
 
 # 工具
 
-- Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1XKcLP1IGPK9E7FLub2yubg)  密码:5hyw
-- Eclipse 插件开发学习笔记       [百度云下载链接](https://pan.baidu.com/s/1x-ff0k1ItOyhVb8Y3tN-FQ)  密码:bmbc
-- Git 权威指南       [百度云下载链接](https://pan.baidu.com/s/1VmPX4YU_VP-pkZD1lgaJqg)  密码:wvch
+- Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1wdoaqX37FyqxvXEAtIs_6A)  密码:daj5
+- Git 权威指南       [百度云下载链接](https://pan.baidu.com/s/19ilSDLTi_fKQfAtNsLV9NA)  密码:sdvy
+- Eclipse 插件开发学习笔记       [百度云下载链接](https://pan.baidu.com/s/1QmnVfn8iAR0ZnymnFHHTYw)  密码:ri78
 
 # 框架
 
@@ -390,7 +390,7 @@
 - JavaScript编程全解       [百度云下载链接](https://pan.baidu.com/s/1ZoNGRWTJbBlpXHsSRbPvTg)  密码:0o3b
 - JavaScript从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1XwS9vGBm_GfYm18cy8HP9w)  密码:5g1l
 - JavaScript高级程序设计(第2版)       [百度云下载链接](https://pan.baidu.com/s/1BwsQmQ3eBWMXsGSxim-4Gw)  密码:z2nj
-- JavaScript捷径教程       [百度云下载链接](链接:https://pan.baidu.com/s/17QdQ7BeVcVnnx0_MhJEFPw)  密码:bh9a
+- JavaScript捷径教程       [百度云下载链接](https://pan.baidu.com/s/17QdQ7BeVcVnnx0_MhJEFPw)  密码:bh9a
 - JavaScript框架高级编程       [百度云下载链接](https://pan.baidu.com/s/1Xq4okvBW4n-0uz_sLby2kQ)  密码:1yxr
 - Javascript框架设计       [百度云下载链接](https://pan.baidu.com/s/11iURNfstG7x0t_-L8NoaIQ)  密码:bq9j
 - JavaScript面向对象编程指南       [百度云下载链接](https://pan.baidu.com/s/1BNh6tdFJtwaVg_oFiyiq7w)  密码:wv2v
