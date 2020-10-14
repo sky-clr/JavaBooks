@@ -24,6 +24,7 @@
   - [Linux 内核](#Linux内核)
 - [10、计算机网络](#计算机网络)
   - [Linux 网络编程](#Linux网络编程)
+  - [wireshark](#wireshark)
 - [11、数据结构与算法](#数据结构与算法)
 - [12、面试](#面试)
 - [13、大数据](#大数据)
@@ -59,7 +60,7 @@
 
 如果想应聘 Java 高级工程师，那么就需要阅读并发编程、底层、性能优化方面的书籍；
 
-如果还想更进一步，那么就要着手阅读设计模式、计算机网络、操作系统、数据结构与算法等方面的书籍；
+如果还想更进一步，那么就要着手阅读设计模式、操作系统、计算机网络、数据结构与算法等方面的书籍；
 
 记住一点，在应聘之前，请恶补一下面试方面的资料；
 
@@ -235,21 +236,27 @@
 
 # 计算机网络
 
-- 计算机网络-自顶向下方法       [百度云下载链接](https://pan.baidu.com/s/18BBCeY9dAHqSAlcmjp5nvA)  密码:e7xf
-- 图解 HTTP       [百度云下载链接](https://pan.baidu.com/s/1YCGkscSU-aA_m3AwatnKUw)  密码:uayc
-- 图解 TCP IP       [百度云下载链接](https://pan.baidu.com/s/1oz_24uUjM7auBrYBQ-4EnA)  密码:3kwn
-- 网络是怎样连接的       [百度云下载链接](https://pan.baidu.com/s/13GUUvVfUh4kL_TKg6Eow_w)  密码:c6z0
-- HTTP 超全混总       [百度云下载链接](https://pan.baidu.com/s/1jW5-Ge_moCpVLPHMMSdKkA)  密码:ledv
-- Java2 网络协议内幕       [百度云下载链接](https://pan.baidu.com/s/1T8nRDBwL1sj6IJ5q9aaNIw)  密码:vdr9
-- TCPIP 详解       [百度云下载链接](https://pan.baidu.com/s/1C_YRv-LUvTYTr9Vagk5YbQ)  密码:wy6q
-- WireShark       [百度云下载链接](https://pan.baidu.com/s/1x_Opx6S2yTJMKLmhVkJH5A)  密码:jkb4
-- TCP IP 网络编程       [百度云下载链接](https://pan.baidu.com/s/1ZaWqcbJuN3WdRSpmFY5evg)  密码:2erz
+- 计算机网络-自顶向下方法       [百度云下载链接](https://pan.baidu.com/s/1wDRlqZgo_IUEai5RjUKx9A)  密码:d3tj
+- 图解 HTTP       [百度云下载链接](https://pan.baidu.com/s/1buPNAvx1djiyVjkha0nPbw)  密码:45aw
+- 图解 TCP IP       [百度云下载链接](https://pan.baidu.com/s/13pwXK91MskfgDPlzj-pUIA)  密码:2qe9
+- 网络是怎样连接的       [百度云下载链接](https://pan.baidu.com/s/10mCqiqHjueth300umcz3xw)  密码:p8l7
+- HTTP 超全混总       [百度云下载链接](https://pan.baidu.com/s/13DQcN37Yy9tPNXpSrLxr5A)  密码:412z
+- Java2 网络协议内幕       [百度云下载链接](https://pan.baidu.com/s/1eJvrinuoVk_lT245e7ujIQ)  密码:pwml
+- TCPIP 详解       [百度云下载链接](https://pan.baidu.com/s/1n_mtvEgEEZJ40IM0WO6LAw)  密码:q7cg
+- TCP IP 网络编程       [百度云下载链接](https://pan.baidu.com/s/1McM3rjEYgHo769d5GC66Mg)  密码:vrlt
+- HTTP权威指南       [百度云下载链接](https://pan.baidu.com/s/1YkZ7r64JgEN5nSJUA9f9Dg)  密码:o0gn
 
 ## Linux网络编程
 
-- Linux 多线程服务端编程       [百度云下载链接](https://pan.baidu.com/s/1D7799-7dv1wHbdla2YPROQ)  密码:yr8h
-- Unix 网络编程       [百度云下载链接](https://pan.baidu.com/s/1w6HOvIZFRw-KfAZotyDOaQ)  密码:ozhb
+- Linux 多线程服务端编程       [百度云下载链接](https://pan.baidu.com/s/1I8kSa7h8_5ws5A40Op4ogw)  密码:2rp4
+- Unix 网络编程       [百度云下载链接](https://pan.baidu.com/s/1ofZd_xMY8053lfbJFaUqLQ)  密码:6c3l
 - 深入理解 Linux 网络技术内幕       [百度云下载链接](https://pan.baidu.com/s/1g5HdrZU2_gi49-QAJr2jGw)  密码:xrjs
+
+## wireshark
+
+- Wireshark数据包分析实战       [百度云下载链接](https://pan.baidu.com/s/1cit9gebAAGdPYUiu7ufJSA)  密码:by6w
+- Wireshark网络分析的艺术       [百度云下载链接](https://pan.baidu.com/s/1kwr6epwAoxO9ynawHqs41w)  密码:12h5
+- Wireshark网络分析就这么简单       [百度云下载链接](https://pan.baidu.com/s/1XasAxkoppdqJ09jxhqg8Kw)  密码:166d
 
 # 数据结构与算法
 
