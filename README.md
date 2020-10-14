@@ -301,11 +301,11 @@
 
 # 大数据
 
-- Kafaka 权威指南       [百度云下载链接](https://pan.baidu.com/s/1cEu_zL59LNWAJbiprpfWKQ)  密码:cr64
-- Spark 快速大数据分析       [百度云下载链接](https://pan.baidu.com/s/1sbYAN6S2Pqe4YN_IUGVvNg)  密码:jruu
-- Spark 快速数据处理       [百度云下载链接](https://pan.baidu.com/s/1KAVhY_O-f8Skyg4G7jabPg)  密码:5w06
-- Hadoop 权威指南       [百度云下载链接](https://pan.baidu.com/s/1_PqsmiWMxka52Al0Zvstpg)  密码:gn7p
-- Hadoop 技术内幕       [百度云下载链接](https://pan.baidu.com/s/1SlwuD4vZE9d-acOk3w_XuQ)  密码:ah5c
+- Kafaka 权威指南       [百度云下载链接](https://pan.baidu.com/s/1uiP2qd10-M9Fid84tOSk0g)  密码:xb4p
+- Spark 快速大数据分析       [百度云下载链接](https://pan.baidu.com/s/1HdD2xENio1d6EzHc8oK9Og)  密码:d9qx
+- Spark 快速数据处理       [百度云下载链接](https://pan.baidu.com/s/1zb8FD8qj4hyW6NHIFbWjUw)  密码:xvug
+- Hadoop 权威指南       [百度云下载链接](https://pan.baidu.com/s/1dCFa1kOtOB54sx53ERE9TA)  密码:wh8m
+- Hadoop 技术内幕       [百度云下载链接](https://pan.baidu.com/s/1JdkjX2cIXsQ-Afh7LFC6-g)  密码:c945
 
 # 架构
 
