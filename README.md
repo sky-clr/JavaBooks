@@ -132,32 +132,31 @@
 
 ## SQL
 
-- Head First SQL       [百度云下载链接](https://pan.baidu.com/s/1qvkEFkx9-JY0lJ_0ZiCXEQ)  密码:e95c
-- SQL 必知必会       [百度云下载链接](https://pan.baidu.com/s/1MIINXare3d04AtK-XEdjIw)  密码:ahxz
-- SQL 学习指南       [百度云下载链接](https://pan.baidu.com/s/1hInlC1cleR0NriuOIQRfOQ)  密码:jb2c
+- Head First SQL       [百度云下载链接](https://pan.baidu.com/s/1X1hOs62vV5zOd-yy9FmvMQ)  密码:u979
+- SQL 必知必会       [百度云下载链接](https://pan.baidu.com/s/1lLl6teMBCUl8SCXLnfuSMA)  密码:qv4z
+- SQL 学习指南       [百度云下载链接](https://pan.baidu.com/s/1ZbqjUX-9AcorJb1r5PSNJA)  密码:hdf0
 
 ## MySQL
 
-- MySQL 必知必会       [百度云下载链接](https://pan.baidu.com/s/1nfK_BA9gRTV_j1Ev_QEuEA)  密码:681j
-- MySQL 技术内幕 innodb 存储引擎       [百度云下载链接](https://pan.baidu.com/s/12vJrR-iSPfAtN8OmdytwlA)  密码:77j3
-- MySQL 技术内幕 SQL 编程       [百度云下载链接](https://pan.baidu.com/s/1jHdfLBJkyhUn66xDfAKh-w)  密码:t9p2
-- MySQL 性能调优与架构设计       [百度云下载链接](https://pan.baidu.com/s/1OpwbCcI56ER8bWOoLiksog)  密码:br5m
-- 高性能 MySQL       [百度云下载链接](https://pan.baidu.com/s/1f7uCgze8MBJ_QexN11vWmA)  密码:fc8h
+- MySQL 必知必会       [百度云下载链接](https://pan.baidu.com/s/1wUjTKeClvZ_i-Cpz_N14Ng)  密码:q9cu
+- MySQL 技术内幕 innodb 存储引擎       [百度云下载链接](https://pan.baidu.com/s/1DggY3AfGGfNZvJaaDh6EKQ)  密码:uetn
+- MySQL 技术内幕 SQL 编程       [百度云下载链接](https://pan.baidu.com/s/1L7lqrHPHGEJEbweoBOLLnQ)  密码:wxzb
+- MySQL 性能调优与架构设计       [百度云下载链接](https://pan.baidu.com/s/1hHbIbpsu-7g76r54GUVCIg)  密码:1464
+- 高性能 MySQL       [百度云下载链接](https://pan.baidu.com/s/1aLK0Spq0FzmGpuWwaj9mPw)  密码:bxrk
 
 
 ## Redis
 
-- Redis 入门指南       [百度云下载链接](https://pan.baidu.com/s/16TmfClW_7RvkJ20BgvUnmg)  密码:r0lq
-- Redis 设计与实现       [百度云下载链接](https://pan.baidu.com/s/1XFbNNnWLg5zkanCjZdGtBQ)  密码:2zdg
-- Redis 深度历险：核心原理与应用实践       [百度云下载链接](https://pan.baidu.com/s/11kL0UjzEv_3zUArngFckkg)  密码:vy25
-- Redis 实战       [百度云下载链接](https://pan.baidu.com/s/1es9GzsDhZNRrdhx3pH1kDQ)  密码:tfdf
-- Redis 源代码分析       [百度云下载链接](https://pan.baidu.com/s/1j2yjOp6d9nnpsoTRw9iGGw)  密码:eqss
+- Redis 入门指南       [百度云下载链接](https://pan.baidu.com/s/1dgNSFQ1R8pAejRnfZeSl-Q)  密码:e2sk
+- Redis 设计与实现       [百度云下载链接](https://pan.baidu.com/s/1N-0hp0pMFMz2YL16DnGPZg)  密码:spsz
+- Redis 深度历险：核心原理与应用实践       [百度云下载链接](https://pan.baidu.com/s/1YchFdEsF7aONNMFWnK50pA)  密码:uzwc
+- Redis 实战       [百度云下载链接](https://pan.baidu.com/s/1kyrS3935PIDWnBXB8HuVUA)  密码:otjw
+- Redis 源代码分析       [百度云下载链接](https://pan.baidu.com/s/1qpMGWYm8KS7yZE3k1ps0pw)  密码:8q33
 
-- 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/1StUOkJZ8upamfcnuhMFWtg)  密码:7ki3
-- 自己动手设计数据库       [百度云下载链接](https://pan.baidu.com/s/1q636hM6dnwQ-YIe7eB4GUQ)  密码:9pum
-- SQL 代码命名规范       [百度云下载链接](https://pan.baidu.com/s/1EZQ4Eaefc_4utkO7vbM7jQ)  密码:hdpa
-- MongoDB 权威指南       [百度云下载链接](https://pan.baidu.com/s/14TN_eHpDbGuTJjiBUFxugQ)  密码:0mxy
-- SQL+Server+2008 实战       [百度云下载链接](https://pan.baidu.com/s/1GNAOdtimEdFZBDET2FPMvA)  密码:4qhr
+- 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/10aDnMcJiFooUEssYajBUmQ)  密码:nmee
+- 自己动手设计数据库       [百度云下载链接](https://pan.baidu.com/s/1ab0dwoxmpHU7BYPuDFLnSA)  密码:tj8g
+- MongoDB 权威指南       [百度云下载链接](https://pan.baidu.com/s/1mTlTzrVG5P-C0iXUz780Fg)  密码:zivs
+- SQL+Server+2008 实战       [百度云下载链接](https://pan.baidu.com/s/1jFssmyZd0jm7-v4N3VjIoQ)  密码:5m2v
 
 # 并发编程
 
