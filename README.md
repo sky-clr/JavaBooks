@@ -160,15 +160,16 @@
 
 # 并发编程
 
-- Java 并发编程之美       [百度云下载链接](https://pan.baidu.com/s/1ES2tjW9OqKJn-ep3T1MLxw)  密码:ey17
-- 精通 Java 并发编程       [百度云下载链接](https://pan.baidu.com/s/1LIaurRvHRh8rqEGPQtUkBA)  密码:jz7g
-- 深入浅出 Java 多线程       [百度云下载链接](https://pan.baidu.com/s/1rTpFmnDzENcKVYILNvQ1mA)  密码:0ltw
-- 实战 Java 高并发程序设计       [百度云下载链接](https://pan.baidu.com/s/10BchWVKfq2SutxSI7NNVnQ)  密码:jc16
-- Java 并发编程实战       [百度云下载链接](https://pan.baidu.com/s/1tYU7HfwloKcrtqD9Pfb_0g)  密码:bmea
-- Java 并发编程的艺术       [百度云下载链接](https://pan.baidu.com/s/1AJzLVke_R4RxywH-VHkZ6w)  密码:bya8
-- Java 多线程编程实战指南       [百度云下载链接](https://pan.baidu.com/s/1oVoilw_ZBXdIEyxCE8QcDQ)  密码:62ji
+- Java 并发编程之美       [百度云下载链接](https://pan.baidu.com/s/10pg_01vlYJdNqT5fzt6KAA)  密码:hrgi
+- 精通 Java 并发编程       [百度云下载链接](https://pan.baidu.com/s/1rOs_w-KndCstW8bigfqIrg)  密码:ld0w
+- 深入浅出 Java 多线程       [百度云下载链接](https://pan.baidu.com/s/11Z-IfAPEZNFWp_mAtqDIKw)  密码:drjx
+- 实战 Java 高并发程序设计       [百度云下载链接](https://pan.baidu.com/s/1BBV1pMVA6IvaptoHfOWyyg)  密码:usiw
+- Java 并发编程实战       [百度云下载链接](https://pan.baidu.com/s/1b9TPRXXh_pgGGx_6DOSyRg)  密码:r0ay
+- Java 并发编程的艺术       [百度云下载链接](https://pan.baidu.com/s/17kbudrARlSj17JzqWDuJlQ)  密码:x8b7
+- Java 多线程编程实战指南       [百度云下载链接](https://pan.baidu.com/s/1kni5irEBAE-fen2VkjKc6w)  密码:v31b
 
 # 底层
+
 - 深入理解 Java 内存模型       [百度云下载链接](https://pan.baidu.com/s/1F86DE2T3OvYYkqD4N9NQGw)  密码:28q5
 - 深入理解 Java 虚拟机       [百度云下载链接](https://pan.baidu.com/s/1OClqs12UeXyhxGrWw850Ww)  密码:53xn
 - 实战 Java 虚拟机 JVM 故障诊断与性能优化       [百度云下载链接](https://pan.baidu.com/s/1246-5ttUrlA7tabbmQvWDw)  密码:5mau
