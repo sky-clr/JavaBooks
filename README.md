@@ -80,23 +80,23 @@
 
 # 入门
 
-- Head First Java       [百度云下载链接](https://pan.baidu.com/s/1X1tUgjYyHZOKCUZ_A0MUag)  密码:scml
-- Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/11xuVn-ZfxVORdRJznLGD2w)  密码:i7ls
-- Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1Vg0BHy70A8RxeKTAM0LN-Q)  密码:areg
-- Java 8 实战       [百度云下载链接](https://pan.baidu.com/s/1uhWY4WUTFExrSPMrjfK_EQ)  密码:94ui
-- Java 核心知识点整理       [百度云下载链接](https://pan.baidu.com/s/1uTFjiGep72nPILcVfru5ew)  密码:zguh
-- Java 基础核心总结       [百度云下载链接](https://pan.baidu.com/s/1m0ulsrvFIv-HtOlRgmc0gA)  密码:7qzg
-- 第一行代码 Java       [百度云下载链接](https://pan.baidu.com/s/1BMgrpWxCP0GPDDkbvPd0JQ)  密码:h3wu
-- 疯狂 Java 讲义       [百度云下载链接](https://pan.baidu.com/s/1QrihmUS5l758Cu88rtZMrw)  密码:vfxa
-- 黑马程序员 Java 自学宝典       [百度云下载链接](https://pan.baidu.com/s/1GhiaYIc2oJmtFh7xRtatkQ)  密码:czyx
-- Java 软件开发复习提纲       [百度云下载链接](https://pan.baidu.com/s/1_yjHS6ca5NWIUmUf0pYgwQ)  密码:pekf
-- Java 程序设计语言       [百度云下载链接](https://pan.baidu.com/s/1-iS2t0knKfklXsA0tlNfLw)  密码:6jl2
-- Java 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1YI0POaxcSKkNeH16ngtYwg)  密码:0njf
-- Java 从小白到大牛       [百度云下载链接](https://pan.baidu.com/s/1OoRdJsm6zAvCJ4sgF6NB6g)  密码:0o88
-- Java 技术手册       [百度云下载链接](https://pan.baidu.com/s/1t2TFaRBdg02gNA-Bq-bEdQ)  密码:3dw1
-- Java 趣味编程 100 例       [百度云下载链接](https://pan.baidu.com/s/1FNvBffCGd95QelZ8PhqU4Q)  密码:9i37
-- Java 入门 123       [百度云下载链接](https://pan.baidu.com/s/1Jm8PEcEkgfXBsudYYw6brg)  密码:b0xo
-- Java 网络编程       [百度云下载链接](https://pan.baidu.com/s/1w6qlKHcGTr-zwpJrMEOhJQ)  密码:r4ri
+- Head First Java       [百度云下载链接](https://pan.baidu.com/s/14VZolSYQcyGKaG2WRpPB_w) 提取码:c07s 
+- Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/1Um_boa6CusUAfjIY6x6Gzw) 提取码:1fvj 
+- Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1oS94BGEyCF5AYEQQ2b8A6Q) 提取码:9q9r 
+- Java 8 实战       [百度云下载链接](https://pan.baidu.com/s/1h377QitObb4cbwXgTuV8Ww) 提取码:nfbm 
+- Java 核心知识点整理       [百度云下载链接](https://pan.baidu.com/s/1AkY43NQeejg4SON8PtSnOg) 提取码:e6tl 
+- Java 基础核心总结       [百度云下载链接](https://pan.baidu.com/s/1vFDVc214I00m3VGbZkHxLA) 提取码:x2qi 
+- 第一行代码 Java       [百度云下载链接](https://pan.baidu.com/s/1EWIs7BcMNZK13uUsh2oyeQ) 提取码:zhuk 
+- 疯狂 Java 讲义       [百度云下载链接](https://pan.baidu.com/s/1XLWhznze2wJ9rPBJVnBKQQ) 提取码:em2k 
+- 黑马程序员 Java 自学宝典       [百度云下载链接](https://pan.baidu.com/s/1PE3qsG3p5pTZgG252PlFTw) 提取码:7mm0 
+- Java 软件开发复习提纲       [百度云下载链接](https://pan.baidu.com/s/1VDewdGcBg7_cNgY-7t0lqA) 提取码:ztfu 
+- Java 程序设计语言       [百度云下载链接](https://pan.baidu.com/s/1aDRIyY7vdls-zW_YEj32mw) 提取码:xc2a 
+- Java 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1Bxlq1KYU9WBHtZpaMtaA8A) 提取码:2msp 
+- Java 从小白到大牛       [百度云下载链接](https://pan.baidu.com/s/1YR7wXL68vvukGCWfjby4sg) 提取码:4oon 
+- Java 技术手册       [百度云下载链接](https://pan.baidu.com/s/1KYNE4yjt1DiizuZ7Fjl0Cw) 提取码:wx6l 
+- Java 趣味编程 100 例       [百度云下载链接](https://pan.baidu.com/s/1mxipMmn_4fY1AeLxqvp6Tw) 提取码:gfaq 
+- Java 入门 123       [百度云下载链接](https://pan.baidu.com/s/1l5b7HByO2adddG3qpjSvnA) 提取码:tdb0 
+- Java 网络编程       [百度云下载链接](https://pan.baidu.com/s/156lbtD6AAidIpgn6hdflsw) 提取码:6ovu 
 
 # 工具
 
@@ -220,7 +220,7 @@
 
 - 深入理解计算机系统       [百度云下载链接](https://pan.baidu.com/s/109rm5NKNSmNg72f0NUDULA)  密码:z6fb
 - 深入理解 Linux 网络技术内幕       [百度云下载链接](https://pan.baidu.com/s/129bdZ0RAzK6U384CoW3jNg)  密码:1hyk
-- Linux 与 Unix shell 编程指南       [百度云下载链接](链接:https://pan.baidu.com/s/1SlDCzevtPamWXjDWieOqlQ)  密码:p3a4
+- Linux 与 Unix shell 编程指南       [百度云下载链接](https://pan.baidu.com/s/1SlDCzevtPamWXjDWieOqlQ)  密码:p3a4
 - 操作系统原理       [百度云下载链接](https://pan.baidu.com/s/1fR45_HLSoI24QR6GEMcFlA)  密码:2e6w
 - 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/17ryZYUdY3HUfXiW1ae154A)  密码:8k4g
 - 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1PeL15iPodn0s_DBRitj4gw)  密码:ze5x
@@ -355,7 +355,7 @@
 ### C++
 
 
-- 大规模 C++程序设计       [百度云下载链接](链接:https://pan.baidu.com/s/1BuGAUlI6zpalbj6R6zxlQA)  密码:9dre
+- 大规模 C++程序设计       [百度云下载链接](https://pan.baidu.com/s/1BuGAUlI6zpalbj6R6zxlQA)  密码:9dre
 - 牛客校招面试题（附答案与解析）c++篇       [百度云下载链接](https://pan.baidu.com/s/1KLI8W42eEArdOSFOULH-hw)  密码:56dk
 - 深度探索C++对象模型       [百度云下载链接](https://pan.baidu.com/s/1HL6GcvHQ6k3iLLi1JLvToQ)  密码:kzva
 - 深入理解c11新特性解析与应用       [百度云下载链接](https://pan.baidu.com/s/1nCXXWDIvB2kfTfT79UDW0A)  密码:qb5e
