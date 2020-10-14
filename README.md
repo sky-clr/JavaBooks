@@ -47,6 +47,7 @@
     - [C++](#C++)
     - [JavaScript](#JavaScript)
     - [Python](#Python)
+    - [go](#go)
     - [JavaWeb](#JavaWeb)
     - [JSP](#JSP)
     - [Kotlin](#Kotlin)
@@ -68,7 +69,7 @@
 
 如果还有时间，DDD、区块链、人工智能、搜索引擎、网络安全、消息队列、云计算、容器、智能家居等等方面的书籍，就可以读起来了；
 
-作为一名程序员，技术方面也不能太过局限，想学习第二种编程语言的话，C、C++、JavaScript、Python 都可以选择；
+作为一名程序员，技术方面也不能太过局限，想学习第二种编程语言的话，C、C++、JavaScript、Python、go 都可以选择；
 
 技术学累了，可以读一读理财金融方面的书籍，比如说香帅北大金融学课、李笑来的学习学习再学习，思维认知方面，强烈推荐《沉默的大多数》，我的偶像王小波的散文集。
 
@@ -319,40 +320,6 @@
 
 # 扩展
 
-## DDD
-
-- 领域驱动设计.软件核心复杂性应对之道       [百度云下载链接](https://pan.baidu.com/s/1d9BHNWVUfYFP9nGdV0FFgg)  密码:va6z
-- 领域驱动设计精简版       [百度云下载链接](https://pan.baidu.com/s/1juvl8VxjCKfvNVqmogETCQ)  密码:eiug
-
-## 区块链
-## 人工智能
-## 搜索引擎
-
-- 开发自己的搜索引擎--Lucene+Heritrix       [百度云下载链接](https://pan.baidu.com/s/18L-iLjn-oN264sUWbW5-Mw)  密码:b784
-- SolrJ教程       [百度云下载链接](https://pan.baidu.com/s/1qPCrZoEnCPkrjiMHhWeVwQ)  密码:rfyp
-
-## 网络安全
-
-- Java 加密与解密的艺术       [百度云下载链接](https://pan.baidu.com/s/1fEx7JgjpyY9w8Gf2zlpn1g)  密码:u1q6
-
-## 消息队列
-
-- RabbitMQ实战 高效部署分布式消息队列       [百度云下载链接](https://pan.baidu.com/s/1JpISdtotQPSfC07gOBwpUg)  密码:r5vc
-
-## 云计算
-
-- 大话云计算       [百度云下载链接](https://pan.baidu.com/s/1D06IJs0rKxNVZgntGVUtEA)  密码:vql4
-
-## AR&VR
-## Docker
-
-- 第一本Docker书       [百度云下载链接](https://pan.baidu.com/s/1gyqJsmpgmFZ9xxmzKmPNzw)  密码:kp36
-
-## IoT
-## Kubernets
-
-- KUBERNETES权威指南  从DOCKET到KURBERNETES实践全接触       [百度云下载链接](https://pan.baidu.com/s/1ALzw8GyNfo3eQ8erOnaXJQ)  密码:ik8g
-
 ## 其他语言
 
 ### C
@@ -382,11 +349,6 @@
 - EffectiveC++中文版（第三版）       [百度云下载链接](https://pan.baidu.com/s/115QGr1NEEGHvwVH7UGO-tA)  密码:996k
 - More Effective C++中文       [百度云下载链接](https://pan.baidu.com/s/1b7btkouM-N8y99F2TwGZBw)  密码:405u
 - STL源码剖析--侯捷       [百度云下载链接](https://pan.baidu.com/s/15ofHnLeQ6MIXeX-0Gl3J9g)  密码:ot8h
-
-### JavaScript
-
-- 学习 go 语言       [百度云下载链接](https://pan.baidu.com/s/1mCJp4FwTrBNUnaPw0HjOUQ)  密码:7s6k
-- go 语言编程       [百度云下载链接](https://pan.baidu.com/s/1l-SDVhA0LSMHGcIY0vX8lQ)  密码:dbpz
 
 ### JavaScript
 
@@ -441,29 +403,68 @@
 - Python网络数据采集       [百度云下载链接](https://pan.baidu.com/s/1IzNqzwRLzwLoo-XliSHAEA)  密码:qnr6
 - 流畅的 Python       [百度云下载链接](https://pan.baidu.com/s/11Mm9WRv9Ud7DVtKVXnNw_w)  密码:1s6a
 
+### go
+
+- 学习 go 语言       [百度云下载链接](https://pan.baidu.com/s/1m_3CQ7Jm1yQ6c8ritXYerA)  密码:grvq
+- go 语言编程       [百度云下载链接](https://pan.baidu.com/s/17ktQRTO7856MDXsiOMFYig)  密码:131i
+
 ### JavaWeb
 
-- JAVA EE WEB开发实例精解       [百度云下载链接](https://pan.baidu.com/s/15Pa7gQAdiUb7wu471QOT1g)  密码:f91e
-- Java Web入门经典       [百度云下载链接](https://pan.baidu.com/s/1DervihvnVIqshYri7vqYag)  密码:34rp
-- Java Web设计模式之道       [百度云下载链接](https://pan.baidu.com/s/143bGQ2FpnIOkIO_76p5sqQ)  密码:x29z
-- Java_Web轻量级开发全体验       [百度云下载链接](https://pan.baidu.com/s/149FdMGJyGIO8_3bnaw1ODQ)  密码:x4lj
-- Java.Web开发学习手册       [百度云下载链接](https://pan.baidu.com/s/1dRWBDJR5Gx16cuj7Ej5xNg)  密码:0jru
+- JAVA EE WEB开发实例精解       [百度云下载链接](https://pan.baidu.com/s/1znvbo645zZXHmTtrbDtD3g)  密码:m7l0
+- Java Web入门经典       [百度云下载链接](https://pan.baidu.com/s/1nQNml5wx-v32rz3jp9K8NA)  密码:m8x5
+- Java Web设计模式之道       [百度云下载链接](https://pan.baidu.com/s/1Ke_sK5MCn9s0CnaUHMsgOQ)  密码:khgy
+- Java_Web轻量级开发全体验       [百度云下载链接](https://pan.baidu.com/s/10wFCdQzTMwEm-rGfplbVTw)  密码:9x7q
+- Java.Web开发学习手册       [百度云下载链接](https://pan.baidu.com/s/1SGEzUqgwQra1jRiYUCz9Pw)  密码:lxu8
 
 ### JSP
 
-- JSP 程序设计       [百度云下载链接](https://pan.baidu.com/s/17X1lEqpRgzXQXos10WAkUA)  密码:gz4a
-- JSP 技术手册       [百度云下载链接](https://pan.baidu.com/s/1fZtGYPSohLsjrZ118v5lNQ)  密码:p4ke
-- JSP 应用开发详解       [百度云下载链接](https://pan.baidu.com/s/1fPCHCPB7wo8Qk28QXkVrjA)  密码:ny0d
-- Servlet 和 JSP 学习指南       [百度云下载链接](https://pan.baidu.com/s/13NNdhTS5Gas21GjOA2VG2g)  密码:5tan
+- JSP 程序设计       [百度云下载链接](https://pan.baidu.com/s/1ANZa0Ng0wOgSnYd1HDj1HA)  密码:o8im
+- JSP 技术手册       [百度云下载链接](https://pan.baidu.com/s/1TKF8IJiU25YThZiZcShKTw)  密码:a6pw
+- JSP 应用开发详解       [百度云下载链接](https://pan.baidu.com/s/1An7emgwgoWD7lI8-jQLxhQ)  密码:7myk
+- Servlet 和 JSP 学习指南       [百度云下载链接](https://pan.baidu.com/s/1Y1y7e4Tsy_ZdJg5G3Pdg8g)  密码:mdqy
 
 ### Kotlin
 
-- kotlin-in-chinese       [百度云下载链接](https://pan.baidu.com/s/1DgO0s4i9swlnMQR8n4kfcA)  密码:w7s6
-- kotlin-for-android-developers-zh       [百度云下载链接](https://pan.baidu.com/s/1iXea798OTJsE4ymeh16fYQ)  密码:yxa0
+- kotlin-in-chinese       [百度云下载链接](https://pan.baidu.com/s/1hrfmM1kJqfIhpDV7M8I7vA)  密码:53om
+- kotlin-for-android-developers-zh       [百度云下载链接](https://pan.baidu.com/s/1C-TJoghcxgtkhfEghjdmUw)  密码:m9nz
 
 ### groovy
 
-- groovy 程序设计       [百度云下载链接](https://pan.baidu.com/s/1_Hin3aedMnondd_9rp0mgg)  密码:r01y
+- groovy 程序设计       [百度云下载链接](https://pan.baidu.com/s/1qTrGCLHaBCTUxLUIVP3BpA)  密码:xmjl
+
+## DDD
+
+- 领域驱动设计.软件核心复杂性应对之道       [百度云下载链接](https://pan.baidu.com/s/1-vWWir6sWrGf9bxP6Z6KnQ)  密码:yc7f
+- 领域驱动设计精简版       [百度云下载链接](https://pan.baidu.com/s/1YnPwZMmcZfD9n7Vx7L3oYA)  密码:9e3x
+
+## 区块链
+## 人工智能
+## 搜索引擎
+
+- 开发自己的搜索引擎--Lucene+Heritrix       [百度云下载链接](https://pan.baidu.com/s/1HMYDToA5Vujn8MGlmilagw)  密码:h1oi
+- SolrJ教程       [百度云下载链接](https://pan.baidu.com/s/1JB5E-x3sdCNOIK483EkAfw)  密码:p0s6
+
+## 网络安全
+
+- Java 加密与解密的艺术       [百度云下载链接](https://pan.baidu.com/s/1H_E4qXeRZ7Cg73_avZfUxw)  密码:1kgn
+
+## 消息队列
+
+- RabbitMQ实战 高效部署分布式消息队列       [百度云下载链接](https://pan.baidu.com/s/1CSSMuIh7ZP7XdcmexAIQJA)  密码:26s7
+
+## 云计算
+
+- 大话云计算       [百度云下载链接](https://pan.baidu.com/s/1p4t9IftbE3BwmQoucKHnjQ)  密码:efwj
+
+## AR&VR
+## Docker
+
+- 第一本Docker书       [百度云下载链接](https://pan.baidu.com/s/1haknxDmxy8Zb3tkBuue3vg)  密码:7dz6
+
+## IoT
+## Kubernets
+
+- KUBERNETES权威指南  从DOCKET到KURBERNETES实践全接触       [百度云下载链接](https://pan.baidu.com/s/19POddjLvy6PaADvaC1yLYg)  密码:njo1
 
 
 # 管理
