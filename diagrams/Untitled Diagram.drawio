@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T10:49:59.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="07ZmqiFIVlRYiPaKnr55" version="13.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-01T12:24:34.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="GV_S8101PQOr_ii7FThM" version="13.8.7" type="github" pages="2">
   <diagram id="diSPx6sxwbUCZ3BAV0dR" name="Page-1">
-    <mxGraphModel dx="633" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Xf8XIknH_fAtcvEAelX-32" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="420" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="380" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Xf8XIknH_fAtcvEAelX-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="10" y="480" width="60" height="40" as="geometry" />
@@ -60,6 +60,60 @@
         </mxCell>
         <mxCell id="1Xf8XIknH_fAtcvEAelX-44" value="数据库响应时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="530" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-1" value="属性名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-2" value="值类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-3" value="描述" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-4" value="fileIndex" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="100" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-5" value="String" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-6" value="默认值为 max，索引值较高的比较小的更新；如果是 min，则相反。" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="340" y="750" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-7" value="min" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="100" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-8" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-9" value="计数器的最小值，默认值为 1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="340" y="810" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-10" value="max" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="100" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-11" value="compressionLevel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="100" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-12" value="tempCompression&lt;br style=&quot;font-size: 12px;&quot;&gt;FilePatten" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="100" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-13" value="int" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="220" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-14" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-15" value="String" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="220" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-16" value="计数器的最大值，默认值为 7；达到这个值后，旧的日志文件被删除。" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="340" y="870" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-17" value="压缩级别，从 0-9，0 为无，1 为最佳速度，9 为最佳压缩。仅针对 zip 文件" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="340" y="930" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbrxd1Zm40ocYw3N6xHd-18" value="日志文件压缩时的文件名模式" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=12;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="340" y="990" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
